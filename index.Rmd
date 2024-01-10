@@ -83,7 +83,7 @@ Appointment-based tutoring accepts appointments starting week 1 and sessions sta
 
 ### Microsoft Teams
 
-> The Teams for this course is [MTH-321B-fa23](https://teams.microsoft.com/l/team/19%3AUxQ7DMXvkLTifZQ7lpCLr1CCos6T50po1cG423t8uNc1%40thread.tacv2/conversations?groupId=2c5a0db8-baf4-44ae-ae71-9dfdba6a3b32&tenantId=){target="_blank"}.
+> The Teams for this course is [MTH-321BC-sp24](https://teams.microsoft.com/l/team/19%3AeKQQxwLbMz3ldFo0BDT96dGpeP_GAobAXH0uQQ7K3BE1%40thread.tacv2/conversations?groupId=479a806f-61b4-47b6-ab6a-3142089b2876&tenantId=){target="_blank"}.
 
 ### Email
 
