@@ -1,0 +1,106 @@
+---
+title: '**Welcome to Ordinary Differential Equation!**'
+author: |
+  | MTH-321 Sections B & C
+  | Spring 2024
+  | University of Portland
+  | Alex John Quijano
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+## **Quick Content Guide**
+
+| Page                      | Contents                                                                          |
+|---------------------------|-----------------------------------------------------------------------------------|
+| [Home](index.html)        | Quick course and instructor information                                           |
+| [Syllabus](syllabus.html) | About the class, class materials and resources, class assessment and expectations |
+| [Topics](topics.html)     | Tentative topics, notes, assignments, and books and online resources list         |
+
+<br>
+
+## **Quick Course Information**
+
+### Course Information
+
+> * Title: MTH 321: Ordinary Differential Equation
+> * Sections: B & C
+
+### Instructor Information
+
+> * Instructor: Dr. Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+### Lectures and Discussions
+
+> The course schedule and location is:
+>
+> * **Section B:** TuTh 11:20 AM - 12:45 PM, Dundon-Berchtold Hall 230
+> * **Section C:** TuTh 2:30 PM - 3:54 PM, Buckley Center 104
+
+<br>
+
+## **Quick Academic Support**
+
+### Walk-In Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in Monday to Thursday at 4:00 PM - 5:00 PM, Buckley Center 279
+
+### Appointment-Based Sessions
+
+> Dr. Alex John Quijano
+>
+> <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:400px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the [Learning Commons](www.up.edu/learningcommons){target="_blank"} website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/tutoring-services/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+<br>
+
+## **Quick Communication Tools**
+
+### Microsoft Teams
+
+> The Teams for this course is [MTH-321B-fa23](https://teams.microsoft.com/l/team/19%3AUxQ7DMXvkLTifZQ7lpCLr1CCos6T50po1cG423t8uNc1%40thread.tacv2/conversations?groupId=2c5a0db8-baf4-44ae-ae71-9dfdba6a3b32&tenantId=){target="_blank"}.
+
+### Email
+
+My UP email is quijano@up.edu. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 321” keyword in your subject line. 
+
+<br>
+
+## **Quick Assignment Tools**
+
+### Gradescope
+
+> The Gradescope for this course is TBA.
+
+### Computing
+
+> R or Python instructions and materials will be provided ad hoc.
+
+<br>

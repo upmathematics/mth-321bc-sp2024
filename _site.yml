@@ -1,0 +1,25 @@
+name: "MTH-321BC-sp2024"
+output_dir: "docs"
+description: |
+  Ordinary Differential Equation Section B at the University of Portland
+navbar:
+  title: "UP Spring 2024: ODE - B/C"
+  search: true
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Topics"
+      href: topics.html
+output:
+  html_document:
+    theme: cosmo
+    lib_dir: site_libs
+    toc: true
+    toc_float: true
+    urlcolor: blue
+    link-citations: true
+    css: css/custom.css
+    include:
+      after_body: _footer.html
