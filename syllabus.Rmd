@@ -78,7 +78,9 @@ It is easy for me to get notice of your email if you put the keyword in the subj
 
 All assignments and feedback must be submitted through [Gradescope](https://www.gradescope.com/){target="_blank"}. You are already listed in Gradescope for this course using your UP email. The gradescope website can also be access through Teams.
 
-> Please register on Gradescope using your UP email address for access. The Gradescope entry code for this course is **VB7G66**.
+> Please register on Gradescope using your UP email address to access assignments. The Gradescope entry code for this course is **VB7G66**.
+
+Note that you may submit your assignments physically in-person if you prefer. I will scan and upload your assignments to Gradescope.
 
 ### Computing
 
