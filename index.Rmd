@@ -48,7 +48,7 @@ create_footer()
 > The course schedule and location is:
 >
 > * **Section B:** TuTh 11:20 AM - 12:45 PM, Dundon-Berchtold Hall 230
-> * **Section C:** TuTh 2:30 PM - 3:54 PM, Buckley Center 104
+> * **Section C:** TuTh 2:30 PM - 3:55 PM, Buckley Center 104
 
 <br>
 
@@ -97,7 +97,7 @@ My UP email is quijano@up.edu.
 
 ### Gradescope
 
-> The Gradescope for this course is TBA.
+> Please register on Gradescope using your UP email address for access. The Gradescope entry code for this course is **VB7G66**.
 
 ### Computing
 
