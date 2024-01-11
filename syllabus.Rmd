@@ -76,7 +76,7 @@ It is easy for me to get notice of your email if you put the keyword in the subj
 
 ### Gradescope
 
-All assignments and feedback must be submitted through Gradescope. You are already enrolled in Gradescope for this course using your UP email. Please register on Gradescope using your UP email address for access.
+All assignments and feedback must be submitted through [Gradescope](https://www.gradescope.com/){target="_blank"}. You will be enrolled in Gradescope for this course using your UP email. Please register on Gradescope using your UP email address for access. Gradescope for this course can be access through Teams.
 
 > The Gradescope for this course is TBA.
 
