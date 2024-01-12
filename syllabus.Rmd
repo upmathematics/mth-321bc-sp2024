@@ -105,7 +105,7 @@ By the end of the semester, you will be able to:
   * Analyze the qualitative behavior of solutions around equilibriums of linear and non-linear ODEs.
   * Solve first- and second-order linear ODEs which includes initial and boundary value problems.
   * Solve first-order linear system of ODEs which includes initial value problems.
-  * Use a basic numerical method to solve ODEs.
+  * Use basic numerical methods to solve ODEs.
   * Apply ODEs to model physical phenomena.
   * Write clear and concise mathematical solutions to ODE problems.
   * Communicate effectively about ODEs with other students, instructors, and professionals.
@@ -118,10 +118,10 @@ Upon completion of the course, you will be able to:
 * Define ordinary differential equations (ODEs) and their basic structure, such as order, linearity, homogeneity, and autonomy.
 * Define a 1st-order system of ODEs and their basic structure, such as, linearity, homogeneity, and autonomy.
 * Use direction fields and phase portraits to analyze the qualitative behavior of solutions around equilibriums of linear and non-linear ODEs.
-* Use separation of variables, integrating factors, and Laplace transforms, and a basic numerical method to solve 1st-order linear ODEs.
+* Use separation of variables, integrating factors, and Laplace transforms to solve 1st-order linear ODEs.
 * Use undetermined coefficients, variation of parameters, and Laplace transforms to solve 2nd-order linear ODEs.
-* Use algebraic and eigentheory methods to solve 1st-order linear systems of ODEs.
-* Use Euler's method to numerically solve 1st-order ODEs.
+* Use algebraic and eigentheory methods to solve 1st-order linear system of ODEs.
+* Use Euler's Method and Runge-Kutta method to numerically solve ODEs.
 * Apply ODEs to model physical phenomena, such as population dynamics, fluid mechanics, and harmonic oscillators.
 
 <br>
