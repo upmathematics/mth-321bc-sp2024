@@ -3,7 +3,7 @@ title: |
   | **Ordinary Differential Equation**
   | **Syllabus**
 author: |
-  | MTH-321 Sections B & C
+  | MTH 321 Sections B & C
   | Spring 2024
   | University of Portland
 bibliography: references.bib
