@@ -1,10 +1,10 @@
 ---
-title: '**Welcome to Ordinary Differential Equation!**'
+title: |
+  | **Welcome to Ordinary Differential Equation!**
 author: |
   | MTH-321 Sections B & C
   | Spring 2024
   | University of Portland
-  | Alex John Quijano
 bibliography: references.bib
 csl: apa.csl
 ---
