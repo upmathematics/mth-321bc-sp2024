@@ -23,20 +23,18 @@ create_footer()
 
 > See Books & Online Resources Lists for the readings & practice materials.
 >
-> The readings & practice materials are not mandatory but it is encouraged.
+> The reading materials are not mandatory but it is encouraged.
 
-<br>The "Reading & Practice" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
-
-<br>Most of the materials (worksheets and homework) of each topic was taken from Inquiry oriented differential equations (IODE) by @iode2018.
+<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
 
 <br>
 
 ## **Topics and Materials**
 
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading & Practice** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **1** | Tu 1/16 | Introduction and Orientation to ODES,<br>Classification of Equations, &<br>Principles of Solutions | Algebra & Calculus Review | Assigned: Homework 0 | Syllabus |
-|  | Th 1/18 | 1st-Order ODEs,<br>Modeling Physical Processes, &<br>Existence and Uniqueness | TBA | - | TBA |
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
+|:--:|:--:|:----------:|:--:|:----:|:----:|
+| **1** | Tu 1/16 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | Algebra & Calculus Review | Assigned: Homework 0 | Syllabus |
+|  | Th 1/18 | 1st-Order ODEs, <br>Modeling Physical Processes, & <br>Existence and Uniqueness | TBA | - | TBA |
 | **2** | Tu 1/23 | Analyzing Equilibriums to Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
 |  | Th 1/25 | Bifurcations in One Dimension | TBA | - | TBA |
 | **3** | Tu 1/30 | Separation of Variables for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
@@ -45,9 +43,9 @@ create_footer()
 |  | Th 2/8 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 2/15 | **Exam 1** | - | - | - |
-| **6** | Tu 2/20 | Systems of 1st-Order ODEs,<br>Modeling Physical Processes, &<br>Existences and Uniqueness | TBA | Assigned: Homework 4 | TBA |
+| **6** | Tu 2/20 | Systems of 1st-Order ODEs, <br>Modeling Physical Processes, & <br>Existences and Uniqueness | TBA | Assigned: Homework 4 | TBA |
 |  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | - | TBA |
-| **7** | Tu 2/27 | Linear Transformations & Eigentheory | TBA | Assigned: Homework 5 | TBA |
+| **7** | Tu 2/27 | Linear Transformations & <br>Eigentheory | TBA | Assigned: Homework 5 | TBA |
 |  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | - | TBA |
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
@@ -55,7 +53,7 @@ create_footer()
 |  | Th 3/14 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | - | TBA |
 | **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Guide |
 |  | Th 3/21 | **Exam 2** | - | - | - |
-| **11** | Tu 3/26 | Higher Order ODEs,<br>Modeling Physical Processes, &<br>Characteristic Equations | TBA | Assigned: Homework 7 | TBA |
+| **11** | Tu 3/26 | Higher Order ODEs, <br>Modeling Physical Processes, & <br>Characteristic Equations | TBA | Assigned: Homework 7 | TBA |
 |  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | - | TBA |
 | **12** | Tu 4/2 | Undetermined Coefficients for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 8 | TBA |
 |  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
@@ -65,8 +63,17 @@ create_footer()
 |  | Th 4/18 | **Exam 3** | - | - | - |
 | **15** | Tu 4/23 | Euler's Method for Solving ODEs | TBA | Assigned: Homework 10 | TBA |
 |  | Th 4/25 | Runge-Kutta Method for Solving ODEs | TBA | - | TBA |
-| **16** | Tu 4/30 | **Final Exam Section B** | - | - | - |
-|  | Th 5/2 | **Final Exam Section C** | - | - | - |
+| **16** | Tu 4/30 | Final Exam Section B | - | - | - |
+|  | Th 5/2 | Final Exam Section C | - | - | - |
+
+<br>
+
+Along with textbooks [H] and [T], and websites [C] and [P], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
+
+-   Inquiry oriented differential equations (IODE) by @iode2018
+-   Differential equations and linear algebra by @strang2014differential
+-   Applied differential equations: The primary course by @dobrushkin2022applied
+-   Differential Equations by @differentialequationsmitopencourseware
 
 <br>
 
@@ -80,9 +87,9 @@ refs <- bibtex::read.bib("references.bib")
 
 ### Textbooks
 
-[H] [`r capture.output(print(refs["hallstrom2018"]))`](https://drive.google.com/file/d/12G9cs0RQPqiXb7vjJXVH58ePJ8DZBgC1/view?usp=sharing){target="_blank"}
+[H] `r capture.output(print(refs["hallstrom2018"]))` [[pdf]](https://drive.google.com/file/d/12G9cs0RQPqiXb7vjJXVH58ePJ8DZBgC1/view?usp=sharing){target="_blank"}
 
-[T] [`r capture.output(print(refs["trench2013elementary"]))`](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono){target="_blank"}
+[T] `r capture.output(print(refs["trench2013elementary"]))` [[pdf]](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono){target="_blank"}
 
 ### Websites
 
@@ -94,6 +101,7 @@ refs <- bibtex::read.bib("references.bib")
 
 # References
 
-<div id="refs"></div>
+::: {#refs}
+:::
 
 <br>
