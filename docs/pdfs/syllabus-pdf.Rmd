@@ -209,32 +209,32 @@ This course follows the standards-based grading system which focuses on the mast
 
 Each assignment will be graded according to the general grading guide detailed below. Each student will be given feedback on their assignment and learning process to improve their performance. Note that each assignment has its own rubric guided by these general guidelines and the assignment’s learning objectives. 
 
-Given the following assignment grade, the student's work is able to:
+Given the following categorical grade, the student's work is able to:
 
 | **Grade** | **Rubric Description** |
-|----|--------|
+|-----:|:---------------|
 | **Outstanding <br> (O)** | Demonstrate full understanding of material, clearly and concisely explains concepts, applies them to solve problems correctly and efficiently, and may extend concepts to new situations. |
 | **Excellent <br> (E)** | Show approximate understanding of material, may have made minor errors but can correct them and explain reasoning, solves problems correctly, and may need more time or practice for efficiency. |
 | **Acceptable <br> (A)** | Show some understanding of material but makes errors, can solve some problems, may need help with more difficult ones, need to work on problem-solving skills and reasoning needed. |
 | **Needs Improvement <br> (NI)** | Show potential but needs more work, made a lot of errors or unable to solve any problems, need to work on understanding material and problem-solving skills. |
-| **Needs Major Improvement <br> (NMI)** | Little understanding of material, made many errors, unable to solve any problems, need to work on understanding material from the ground up. |
-| **Incomplete <br> (I)** | No answers submitted, need to review material and try again. |
+| **Needs Major Improvement <br> (NMI)** | Little understanding of material and some parts are incomplete or missing. Made many errors, unable to solve any problems, need to work on understanding material from the ground up. |
+| **Incomplete <br> (I)** | No work submitted or blank. |
 
 *Note that these are categorical grades (not scores)*
 
 ### Final Grades
 
-| Assignment | Rank | Grade | A | B | C | D |
-|---|---|---|---|---|---|---|
-| Exams | 1 | O | 70% | - | - | - |
+| **Assignment** | **Rank** | **Grade** | **A** | **B** | **C** | **D** |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Exams** | 1 | O | 70% | - | - | - |
 |  |  | E | - | 60% | - | - |
 |  |  | A | - | - | 50% | - |
 |  |  | NI | - | - | - | 40% |
-| Homeworks | 2 | O | 100% | - | - | - |
+| **Homeworks** | 2 | O | 100% | - | - | - |
 |  |  | E | - | 90% | - | - |
 |  |  | A | - | - | 80% | - |
 |  |  | NI | - | - | - | 70% |
-| Worksheets | 3 | Completed | 90% | 80% | 70% | 60% |
+| **Worksheets** | 3 | Completed | 90% | 80% | 70% | 60% |
 
 *The above table shows the percent of given assignments. These percentages are minimum requirements for each letter grade. The rank determines the importance of each assignment where 1 means high rank and 3 means low rank.*
 
@@ -284,9 +284,11 @@ The written part of the exam allows you demonstrate your understanding of the ma
 
 Written exams will be graded on 3 components:
 
-  * *Methodology:* The method should be sound and well-founded. It should be based on a solid understanding of the underlying principles. The method should be applied correctly and consistently.
-  * *Reasoning:* The solution method should be explained in a clear and logical way. The steps of the method should be justified and explained. The reasonableness of the solution should be justified.
-  * *Writing:* The solution process should be written in a clear and concise way. The steps of the method should be easy to follow. The graphs/diagrams/equations should be clear and helpful. The mathematical notation should be used clearly and correctly.
+| **Written Component** | **Description** |
+|-----:|:---------------|
+| **Methodology** | The method should be sound and well-founded. It should be based on a solid understanding of the underlying principles. The method should be applied correctly and consistently. |
+| **Reasoning** | The solution method should be explained in a clear and logical way. The steps of the method should be justified and explained. The reasonableness of the solution should be justified. |
+| **Writing** | The solution process should be written in a clear and concise way. The steps of the method should be easy to follow. The graphs/diagrams/equations should be clear and helpful. The mathematical notation should be used clearly and correctly. |
 
 Here are the rules for the written part of the exams:
 
@@ -300,9 +302,11 @@ The oral part of the exam allows you to demonstrate your understanding of the ma
 
 Oral exams will be graded on 3 components:
 
-  * *Knowledge:* This includes the student's ability to recall and apply mathematical concepts and procedures. The student should be able to answer questions about the material in a clear and concise way, and they should be able to solve problems using a variety of methods.
-  * *Communication:* This includes the student's ability to explain their thinking clearly, concisely, and timely. The student should be able to use mathematical language fluently, and they should be able to communicate their ideas in a way that is understandable.
-  * *Problem-solving:* This includes the student's ability to identify and solve mathematical problems. The student should be able to think critically about problems, and they should be able to develop and implement strategies for solving them.
+| **Oral Component** | **Description** |
+|-----:|:---------------|
+| **Knowledge** | This includes the student's ability to recall and apply mathematical concepts and procedures. The student should be able to answer questions about the material in a clear and concise way, and they should be able to solve problems using a variety of methods. |
+| **Communication** | This includes the student's ability to explain their thinking clearly, concisely, and timely. The student should be able to use mathematical language fluently, and they should be able to communicate their ideas in a way that is understandable. |
+| **Problem-solving** | This includes the student's ability to identify and solve mathematical problems. The student should be able to think critically about problems, and they should be able to develop and implement strategies for solving them. |
     
 Here are the rules for the oral part of the exams:
     
@@ -322,18 +326,13 @@ The grade you will receive for exams are a breakdown of your written and oral ex
 
 Your exams can be revised and you can retake both written and oral parts. Exam retakes allows you to have your exams up-graded, meaning - for example - a grade of "NI" can be up-graded to "A".
 
-Exam retake procedure are similar to the original exam. There are three possible kinds of exam retakes you can choose depending on your exam grade.
-
-  * *Written only:* you just need to revise your written exam and submit your retake written exam.
-  * *Oral only:* you just need to take an oral exam retake.
-  * *Both:* the written part is your revised exam and the oral part is explaining your revisions and responding to added questions from me.
+Exam retake procedure are similar to the original exam. The written part is your revised exam and the oral part is explaining your revisions and responding to feedback from the last oral exam.
 
 Here are the qualifications for exam retakes:
 
-  * An exam (written or oral) grade of "NMI", NI", "A", or "E".
-  * The written or oral exam to be revised must be completed, meaning all parts should have your full written solutions. Incomplete work is disqualified for revisions and retakes.
-  * The original copy of the parts with errors in your written or oral exam.
-  * A complete written revisions of the parts with errors in your exam. This rule applies only to written only retake exam.
+  * An exam grade of "NMI", NI", "A", or "E".
+  * The exam to be revised must be completed, meaning all parts should have your full written solutions. Incomplete work is disqualified for revisions and retakes.
+  * A complete written revisions of the parts with errors in your exam.
   
 Here are the rules for exam retakes:
 
@@ -514,6 +513,8 @@ refs <- bibtex::read.bib("../../references.bib")
 [P] `r capture.output(print(refs["paulodenotes"]))`
 
 <br>
+
+\newpage
 
 # References
 

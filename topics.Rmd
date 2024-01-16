@@ -22,7 +22,7 @@ create_footer()
 <br>
 
 > See Books & Online Resources Lists for the readings & practice materials.
->
+> 
 > The reading materials are not mandatory but it is encouraged.
 
 <br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
