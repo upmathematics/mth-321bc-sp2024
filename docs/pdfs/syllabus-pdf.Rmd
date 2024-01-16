@@ -447,28 +447,28 @@ The University of Portland is a community dedicated to the investigation and dis
 ## **Topics and Materials**
 
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
-|:--:|:--:|:----------:|:--:|:----:|:----:|
-| **1** | Tu 1/16 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | Algebra & Calculus Review | Assigned: Homework 0 | Syllabus |
-|  | Th 1/18 | 1st-Order ODEs, <br>Modeling Physical Processes, & <br>Existence and Uniqueness | TBA | - | TBA |
+|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
+| **1** | Tu 1/16 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | TBA | Assigned: Homework 0 | TBA |
+|  | Th 1/18 | 1st-Order ODEs, <br>Existence and Uniqueness, & <br>Modeling Physical Processes | TBA | - | TBA |
 | **2** | Tu 1/23 | Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
-|  | Th 1/25 | Bifurcations in One Dimension | TBA | - | TBA |
-| **3** | Tu 1/30 | Separation of Variables for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
-|  | Th 2/1 | Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
-| **4** | Tu 2/6 | Laplace Transforms | TBA | Assigned: Homework 3 | TBA |
-|  | Th 2/8 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
+|  | Th 1/25 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
+| **3** | Tu 1/30 | Laplace Transforms | TBA | Assigned: Homework 2 | TBA |
+|  | Th 2/1 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
+| **4** | Tu 2/6 | Euler's Method for solving ODEs | TBA | Assigned: Homework 3 | TBA |
+|  | Th 2/8 | Bifurcations in One Dimension | TBA | - | TBA |
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 2/15 | **Exam 1** | - | - | - |
-| **6** | Tu 2/20 | Systems of 1st-Order ODEs, <br>Modeling Physical Processes, & <br>Existences and Uniqueness | TBA | Assigned: Homework 4 | TBA |
+| **6** | Tu 2/20 | Systems of 1st-Order ODEs,  <br>Existences and Uniqueness, & <br>Modeling Physical Processes | TBA | Assigned: Homework 4 | TBA |
 |  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | - | TBA |
-| **7** | Tu 2/27 | Linear Transformations & <br>Eigentheory | TBA | Assigned: Homework 5 | TBA |
+| **7** | Tu 2/27 | Linear Transformations & <br>Eigenthoery | TBA | Assigned: Homework 5 | TBA |
 |  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | - | TBA |
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
-| **9** | Tu 3/12 | Bifurcations in Two Dimensions | TBA | Assigned: Homework 6 | TBA |
-|  | Th 3/14 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | - | TBA |
+| **9** | Tu 3/12 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | Assigned: Homework 6 | TBA |
+|  | Th 3/14 | Bifurcations in Two Dimensions | TBA | - | TBA |
 | **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Guide |
 |  | Th 3/21 | **Exam 2** | - | - | - |
-| **11** | Tu 3/26 | Higher Order ODEs, <br>Modeling Physical Processes, & <br>Characteristic Equations | TBA | Assigned: Homework 7 | TBA |
+| **11** | Tu 3/26 | Higher Order ODEs, <br>Characteristic Equations, & <br>Modeling Physical Processes | TBA | Assigned: Homework 7 | TBA |
 |  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | - | TBA |
 | **12** | Tu 4/2 | Undetermined Coefficients for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 8 | TBA |
 |  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
@@ -476,8 +476,8 @@ The University of Portland is a community dedicated to the investigation and dis
 |  | Th 4/11 | Power and Fourier Series Methods for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
 | **14** | Tu 4/16 | _Review_ | Exam 3 Examples | - | Exam 3 Guide |
 |  | Th 4/18 | **Exam 3** | - | - | - |
-| **15** | Tu 4/23 | Euler's Method for Solving ODEs | TBA | Assigned: Homework 10 (Optional) | TBA |
-|  | Th 4/25 | Runge-Kutta Method for Solving ODEs | TBA | - | TBA |
+| **15** | Tu 4/23 | Analyzing the Lorenz System | TBA | Assigned: Homework 10 (Optional) | TBA |
+|  | Th 4/25 | Analyzing the Double Pendulum | TBA | - | TBA |
 | **16** | Tu 4/30 | Final Exam Section B | - | - | - |
 |  | Th 5/2 | Final Exam Section C | - | - | - |
 
