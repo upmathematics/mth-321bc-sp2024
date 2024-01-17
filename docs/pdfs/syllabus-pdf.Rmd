@@ -16,7 +16,7 @@ header-includes: |
   \usepackage{float}
 output:
   bookdown::pdf_document2:
-    toc: yes
+    toc: no
     number_section: no
 urlcolor: blue
 bibliography: ../../references.bib
@@ -29,8 +29,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
-
-# MTH 321
 
 ## **About the Class**
 
@@ -87,6 +85,8 @@ We will be using Teams as the main real-time communication tool for general anno
 
 > The Teams for this course is [MTH-321BC-sp24](https://teams.microsoft.com/l/team/19%3AeKQQxwLbMz3ldFo0BDT96dGpeP_GAobAXH0uQQ7K3BE1%40thread.tacv2/conversations?groupId=479a806f-61b4-47b6-ab6a-3142089b2876&tenantId=){target="_blank"}.
 
+Note that most of the content can be accessed in Teams which includes the course website, Gradescope, and Cloud Computing.
+
 ### Email
 
 My UP email is quijano@up.edu. 
@@ -107,11 +107,17 @@ All assignments and feedback must be submitted through [Gradescope](https://www.
 
 Note that you may submit your assignments physically in-person if you prefer. I will scan and upload your assignments to Gradescope.
 
-### Computing
+### Cloud Computing
 
-We will be using a computational tool in some assignments. These tools are free and open-source.
+We will be using a computational tool (R or Python) for some assignments. These tools are free and open-source. We will use the [Posit Cloud](https://login.posit.cloud/login?redirect=%2F){target="_blank"} service, an online computing environment.
 
+> Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester. Once you are in the workspace, you can create your own project environment with either R or Python.
+> 
 > R or Python instructions and materials will be provided ad hoc.
+
+*Note that the Posit Cloud computing service is free for you but it is metered by computation hours. Please only use the service for course related computations.*
+
+The advantage of cloud computing is that you don't need to worry about installation and updates, and I can fix any errors remotely. If you are interested in doing your own computation on your own machine you can install R or Python environments yourself through [R Studio](https://posit.co/download/rstudio-desktop/){target="_blank"} or [Jupyter](https://jupyter.org/){target="_blank"}.
 
 <br>
 
@@ -429,95 +435,5 @@ The University of Portland is committed to fostering a safe and respectful commu
 ### Ethics of Information
 
 The University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information at [libguides.up.edu/ethicaluse](libguides.up.edu/ethicaluse){target="_blank"}.
-
-<br>
-
-\newpage
-
-# Tentative Topics Schedule
-
-> See Books & Online Resources Lists for the readings & practice materials.
->
-> The reading materials are not mandatory but it is encouraged.
-
-<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
-
-<br>
-
-## **Topics and Materials**
-
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
-|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
-| **1** | Tu 1/16 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | TBA | Assigned: Homework 0 | TBA |
-|  | Th 1/18 | 1st-Order ODEs, <br>Existence and Uniqueness, & <br>Modeling Physical Processes | TBA | - | TBA |
-| **2** | Tu 1/23 | Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
-|  | Th 1/25 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
-| **3** | Tu 1/30 | Laplace Transforms | TBA | Assigned: Homework 2 | TBA |
-|  | Th 2/1 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
-| **4** | Tu 2/6 | Euler's Method for solving ODEs | TBA | Assigned: Homework 3 | TBA |
-|  | Th 2/8 | Bifurcations in One Dimension | TBA | - | TBA |
-| **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Guide |
-|  | Th 2/15 | **Exam 1** | - | - | - |
-| **6** | Tu 2/20 | Systems of 1st-Order ODEs,  <br>Existences and Uniqueness, & <br>Modeling Physical Processes | TBA | Assigned: Homework 4 | TBA |
-|  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | - | TBA |
-| **7** | Tu 2/27 | Linear Transformations & <br>Eigenthoery | TBA | Assigned: Homework 5 | TBA |
-|  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | - | TBA |
-| **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
-|  | Th 3/7 | _Spring Vacation_ | - | - | - |
-| **9** | Tu 3/12 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | Assigned: Homework 6 | TBA |
-|  | Th 3/14 | Bifurcations in Two Dimensions | TBA | - | TBA |
-| **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Guide |
-|  | Th 3/21 | **Exam 2** | - | - | - |
-| **11** | Tu 3/26 | Higher Order ODEs, <br>Characteristic Equations, & <br>Modeling Physical Processes | TBA | Assigned: Homework 7 | TBA |
-|  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | - | TBA |
-| **12** | Tu 4/2 | Undetermined Coefficients for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 8 | TBA |
-|  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
-| **13** | Tu 4/9 | Laplace Transforms for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 9 | TBA |
-|  | Th 4/11 | Power and Fourier Series Methods for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
-| **14** | Tu 4/16 | _Review_ | Exam 3 Examples | - | Exam 3 Guide |
-|  | Th 4/18 | **Exam 3** | - | - | - |
-| **15** | Tu 4/23 | Analyzing the Lorenz System | TBA | Assigned: Homework 10 (Optional) | TBA |
-|  | Th 4/25 | Analyzing the Double Pendulum | TBA | - | TBA |
-| **16** | Tu 4/30 | Final Exam Section B | - | - | - |
-|  | Th 5/2 | Final Exam Section C | - | - | - |
-
-<br>
-
-Along with textbooks [H] and [T], and websites [C] and [P], most of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
-
-  * Inquiry oriented differential equations (IODE) by @iode2018
-  * Differential equations and linear algebra by @strang2014differential
-  * Applied differential equations: The primary course by @dobrushkin2022applied
-  * Differential Equations by @differentialequationsmitopencourseware
-
-<br>
-
-## **Books & Online Resources Lists**
-
-```{r echo=FALSE}
-refs <- bibtex::read.bib("../../references.bib")
-```
-
-*Click on the link to access the resources.*
-
-### Textbooks
-
-[H] `r capture.output(print(refs["hallstrom2018"]))` [[pdf]](https://drive.google.com/file/d/12G9cs0RQPqiXb7vjJXVH58ePJ8DZBgC1/view?usp=sharing){target="_blank"}
-
-[T] `r capture.output(print(refs["trench2013elementary"]))` [[pdf]](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono){target="_blank"}
-
-### Websites
-
-[C] `r capture.output(print(refs["clontz2022"]))`
-
-[P] `r capture.output(print(refs["paulodenotes"]))`
-
-<br>
-
-\newpage
-
-# References
-
-<div id="refs"></div>
 
 <br>
