@@ -99,7 +99,7 @@ My UP email is quijano@up.edu.
 
 > Please register on Gradescope using your UP email address to access assignments. The Gradescope entry code for this course is **VB7G66**.
 
-### Computing
+### Cloud Computing
 
 > Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester. Once you are in the workspace, you can create your own project environment with either R or Python.
 > 
