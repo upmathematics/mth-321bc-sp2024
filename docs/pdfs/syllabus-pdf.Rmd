@@ -21,7 +21,8 @@ output:
 urlcolor: blue
 bibliography: ../../references.bib
 csl: ../../apa.csl
-geometry: "left=0.50in,right=0.50in,top=1in,bottom=1in"
+geometry: "left=0.50in,right=0.50in,top=0.75in,bottom=0.75in"
+fontsize: 12pt
 ---
 
 ```{r setup, include=FALSE}
@@ -49,7 +50,7 @@ MTH 202 with a grade of C- or higher or permission of instructor.
 
 ### Lectures and Discussions
 
-In-person lectures and discussions will occur synchronously during their scheduled time on Tuesday, and Thursday. Our lectures will typically consist of traditional lectures in the first 20 to 30 minutes of class, then followed by a mini-activities in a form of group work, discussions, or worksheets.
+In-person lectures and discussions will occur synchronously during their scheduled time on Tuesday, and Thursday. Our lectures will typically consist of traditional lectures in the first 20 to 30 minutes of class, then followed by mini-activities in a form of group work, discussions, or worksheets.
 
 > The course schedule and location is:
 >
@@ -231,7 +232,7 @@ Given the following categorical grade, the student's work is able to:
 ### Final Grades
 
 | **Assignment** | **Rank** | **Grade** | **A** | **B** | **C** | **D** |
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Exams** | 1 | O | 70% | - | - | - |
 |  |  | E | - | 60% | - | - |
 |  |  | A | - | - | 50% | - |

@@ -31,10 +31,10 @@ create_footer()
 
 ## **Topics and Materials**
 
-| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Reading** |
+| **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
 |:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | Tu 1/16 | _Cancelled_ | - | - | - |
-|  | Th 1/18 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | TBA | - | TBA |
+|  | Th 1/18 | Introduction and Orientation to ODES, <br>Classification of Equations, & <br>Principles of Solutions | Algebra & Calculus Review<br>Verifying Solutions | - | TBA |
 | **2** | Tu 1/23 | 1st-Order ODEs, <br>Existence and Uniqueness, <br>Modeling Physical Systems, & <br>Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
 |  | Th 1/25 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
 | **3** | Tu 1/30 | Laplace Transforms | TBA | Assigned: Homework 2 | TBA |
