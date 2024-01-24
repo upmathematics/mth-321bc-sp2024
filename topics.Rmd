@@ -35,12 +35,12 @@ create_footer()
 |:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | Tu 1/16 | _Cancelled_ | - | - | - |
 |  | Th 1/18 | Introduction and Orientation to ODEs<br>_(Temporarily Asynchronous)_ | Algebra and Calculus Review | - | Syllabus |
-| **2** | Tu 1/23 | Modeling Physical Systems,<br>Classification of Equations, & <br>Principles of Solutions | Classifying ODEs and Verifying Solutions | Assigned: Homework 1 | TBA |
-|  | Th 1/25 | 1st-Order ODEs,<br>Existence and Uniqueness, &<br>Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | - | TBA |
-| **3** | Tu 1/30 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
-|  | Th 2/1 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
-| **4** | Tu 2/6 | Euler's Method for solving ODEs | TBA | Assigned: Homework 3 | TBA |
-|  | Th 2/8 | Bifurcations in One Dimension | TBA | - | TBA |
+| **2** | Tu 1/23 | Modeling Physical Systems,<br>Classification of Equations, & <br>Principles of Solutions | Classifying ODEs and Verifying Solutions | - | TBA |
+|  | Th 1/25 | 1st-Order ODEs,<br>Existence and Uniqueness, &<br>Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
+| **3** | Tu 1/30 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
+|  | Th 2/1 | Laplace Transforms for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
+| **4** | Tu 2/6 | Euler's Method for solving ODEs | TBA | - | TBA |
+|  | Th 2/8 | Bifurcations in One Dimension | TBA | Assigned: Homework 3 | TBA |
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 2/15 | **Exam 1** | - | - | - |
 | **6** | Tu 2/20 | Systems of 1st-Order ODEs,  <br>Existences and Uniqueness, & <br>Modeling Physical Processes | TBA | Assigned: Homework 4 | TBA |
