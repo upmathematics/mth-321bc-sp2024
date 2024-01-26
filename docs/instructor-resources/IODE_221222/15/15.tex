@@ -1,0 +1,270 @@
+%UNIT 15: LAPLACE TRANSFORMS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Put the following at the top of each .tex file  %
+\pagestyle{fancy}
+\renewcommand{\theUnit}{15}
+\ifthenelse{\isundefined{\UnitPageNumbers}}{}{\setcounter{page}{1}}
+\rhead{Unit \theUnit: Laplace Transforms}
+\lhead{\includegraphics[width=1.25cm]{IODE-logo.png}}
+\rfoot{\mypage}
+\lfoot{}
+\cfoot{}
+\fancypagestyle{firstfooter}{\footskip = 50pt}
+\renewcommand{\footrulewidth}{.4pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{-20pt} \thispagestyle{firstfooter}
+\pagebegin{Laplace Transforms}
+
+Thus far we have covered the following analytic techniques to solve differential equations:
+\begin{itemize} \itemsep-2pt
+\item \textbf{Separation of Variables} (first order, separable DEs)
+\item \textbf{Reverse Product Rule} (first order linear, non-seperable DEs)
+\begin{itemize} \itemsep-2pt
+\item This is also often called the Integrating Factor Method
+\end{itemize}
+\item \textbf{Method of Undetermined Coefficients} (second order linear differential equations, constant coefficients)
+\end{itemize}
+
+There are also some analytic techniques that we are not going to cover in this class but you can look online about:
+\begin{itemize} \itemsep-2pt
+\item \textbf{Variation of Parameters} (first or second order, linear, nonconstant coefficients)
+\item \textbf{Bernoulli's Method} (first order nonlinear)
+\end{itemize}
+
+The final analytic technique we will talk about is called \textbf{Laplace Transforms}. The Laplace Transform Method can be used to solve first or second order linear DEs with constant coefficients that are homogeneous or nonhomogenous. \\
+
+Before defining what a Laplace Transform is, let's remind ourselves about how how we have gone about analytically solving DEs thus far:
+\begin{itemize} \itemsep-2pt
+\item Input: Differential equation (in $t$-domain or $x$-domain)
+\item Step 1: Apply appropriate analytic technique (in $t$-domain or $x$-domain)
+\item Step 2: Apply Initial Conditions if necessary
+\item Output: Solution (in $t$-domain or $x$-domain)
+\end{itemize}
+
+Now, Let's contrast that with how Laplace Transforms work. Let's start with an analogy. Consider the following Roman Numerals: IX and IV. Compute the multiplication of those two numerals, (IX)(IV)=?, and give the result back in Roman Numerals. Describe your process. \\
+\vspace{.8in}
+
+This process is analogous to how Laplace Transforms work:
+\begin{itemize} \itemsep-2pt
+\item Input: Differential equation (in $t$-domain or $x$-domain)
+\item Step 1: Take the Laplace Transform (turns $t$-domain or $x$-domain into $s$-domain)
+\begin{itemize} \itemsep-2pt
+\item Think of this is a ``change of variables'' (like we changed Roman Numerals to Hindu-Arabic Numerals)
+\end{itemize}
+\item Step 2: Do some algebra within the $s$-domain
+\item Step 3: Apply the Inverse Transform to go back to the $t$-domain or $x$-domain
+\begin{itemize} \itemsep-2pt
+\item Think of this is a undoing the ``change of variables'' we applied in Step 1 (like we changed the Hindu-Arabic answer back into Roman Numerals)
+\end{itemize}
+\item Output: Solution
+\end{itemize}
+
+\newpage
+\pagebegin{What is a Laplace Transform?}
+
+Let $f(t)$ be a function on $[0,\infty)$. The \textbf{Laplace transform} of $f$ is the function, $F$, defined by the integral
+\[
+F(s)=\int_0^\infty e^{-st}f(t)dt
+\]
+The domain of $F(s)$ is all the values of $s$ for which the above integral exists. The Laplace transform of $f$ is denoted by both $F$ and $\mathscr{L}\{f\}$. \\
+
+Notice that the integral above is an \textbf{improper} integral. More precisely,
+\[
+\int_0^\infty e^{-st}f(t)dt=\lim_{N\to\infty} \int_0^N e^{-st}f(t)dt
+\]
+wherever the limit exists. \\
+\hrule
+\vspace{6pt}
+\begin{enumerate}
+\item Determine the Laplace transform of the constant function $f(t)=1$, $t \geq 0$. \label{15problem1}
+\vfill
+\item Determine the Laplace transform of the function $f(t)=e^{at}$, where $a$ is a constant. \label{15problem2}
+\vfill
+\newpage
+\item Determine the Laplace transform of the function $f(t)=t$. \label{15problem3}
+\vfill
+\item Determine the Laplace transform of the function $f(t)=\sin(bt)$. \label{15problem4}
+\vfill
+\end{enumerate}
+
+\newpage
+\pagebegin{Linearity of the Transform}
+
+Let $f$, $f_1$, and $f_2$ be functions whose Laplace transforms exist for $s>a$ and let $c$ be a constant. Then, for $s>a$
+\begin{align*}
+\mathscr{L}\{f_1+f_2\} &= \mathscr{L}\{f_1\}+\mathscr{L}\{f_2\} \\
+\mathscr{L}\{cf\} &= c\mathscr{L}\{f\}
+\end{align*}
+\hrule
+\vspace{6pt}
+\begin{enumerate}[resume]
+\item Determine $\mathscr{L}\{11+5e^{4t}-7t-4\sin(2t)\}$. \textsl{Hint: Problems \ref{15problem1}-\ref{15problem4}, and the Linearity Principle will help here.} \label{15problem5}
+\vfill
+\end{enumerate}
+
+\hrule
+\pagebegin{Laplace Transform of the Derivative}
+
+So far, we have only found the Laplace Transform of functions. But, to be able to use this analytic technique to solve first and second order linear differential equations, we need to know what the Laplace Transforms are of first derivative of functions, second derivatives of functions, up to higher order derivatives of functions. \\
+
+\hrule
+\vspace{6pt}
+Let $f(t)$ and $f'(t)$ be continuous on $[0,\infty)$ with all of these functions of exponential order $\alpha$. The term ``exponential order alpha'' implies $\displaystyle \lim_{t\rightarrow\infty} \frac{f(t)}{e^{\alpha t}}=0$ which implies the existence of the improper integral from the Laplace transform. Then, for $s>\alpha$, 
+\begin{align*}
+\mathscr{L}\{f'\}(s) &=sF(s)-f(0) ~~ \textrm{which we often write as} ~~ sF-f(0) \\
+\end{align*}
+\begin{enumerate}[resume]
+\item Let's prove this. \textsl{Hint: Use integration by parts with $u=e^{-st}$}. \label{15problem6}
+\end{enumerate}
+\vfill
+
+\newpage
+\begin{enumerate}[resume]
+\item Recall $\mathscr{L}\{\sin(bt)\}(s)=\displaystyle\frac{b}{s^2+b^2}$. Use this fact and the Laplace transform of the derivative to prove that $\mathscr{L}\{\cos(bt)\}(s)=\displaystyle\frac{s}{s^2+b^2}$. \label{15problem7}
+\vfill
+\item Consider $g=f'$. Find $\mathscr{L}\{g'\}$ only in terms of $f$ and its Laplace transform. Use this results to state $\mathscr{L}\{f''\}$. \label{15problem8}
+\vfill
+\newpage
+
+\item Let's apply what we have learned so far to solve a DE that we know the solution to already. \label{15problem9}
+\[
+y'=2y, \quad y(0)=1
+\]
+First, take the Laplace transform. Second, do some algebra to isolate $Y$. Third, based on your $Y(s)$, what should our solution $y(t)$ be?
+\end{enumerate}
+\vfill
+In solving differential equations in previous units, we often got solutions of the form $e^{at}f(t)$, especially where $f(t)=\sin(bt)$ or $f(t)=\cos(bt)$. So, let's study the Laplace transform of $e^{at}f(t)$.
+\begin{enumerate}[resume]
+\item Show that $\mathscr{L}\{e^{at}f(t)\}=F(s-a)$. \label{15problem10}
+\vfill
+\item Use what you found in problem \ref{15problem10} to show that $\displaystyle\mathscr{L}\{e^{at}t^n\}=\frac{n!}{(s-a)^{n+1}}$. \label{15problem11}
+\vfill
+\newpage
+\item Use what you found in problem \ref{15problem10} to show that $\displaystyle\mathscr{L}\{e^{at}\sin(bt)\}=\frac{b}{(s-a)^2+b^2}$. \label{15problem12}
+\vfill
+\item Use what you found in problem \ref{15problem10} to show that $\displaystyle\mathscr{L}\{e^{at}\cos(bt)\}=\frac{s-a}{(s-a)^2+b^2}$. \label{15problem13}
+\vfill
+\item Solve the following differential equation. \label{15problem14}
+\[
+y''+2y'+2y=0, \quad y(0)=1 \quad \text{and} \quad y'(0)=-1
+\]
+\vfill
+\end{enumerate}
+
+\newpage
+\pagebegin{Solving Initial Value Problems with the Laplace Transform Method}
+
+\begin{enumerate}[resume]
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15problem15}
+\[
+y''-2y'+5y=0; \quad \text{where} \quad y(0)=2 \quad \text{and} \quad y'(0)=4
+\]
+\newpage
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15problem16}
+\[
+y''-7y'+10y=10; \quad \text{where} \quad y(0)=5 \quad \text{and} \quad y'(0)=-4
+\]
+\newpage
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15problem17}
+\[
+y''+4y'-5y=e^t; \quad \text{where} \quad y(0)=1 \quad \text{and} \quad y'(0)=0
+\]
+\newpage
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15problem18}
+\[
+y''+y=6; \quad \text{where} \quad y(0)=1 \quad \text{and} \quad y'(0)=1
+\]
+\end{enumerate}
+
+\newpage
+\pagebegin{Summary of Laplace Transforms and Properties of Laplace Transforms}
+\textbf{Table of Laplace Transforms} \\
+\begin{center}
+{\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|l|} \hline
+\Large{$f(t)$} & \Large{$F(s)=\mathscr{L}\{f\}(s)$} \\ \hline
+$1$ & $\displaystyle\frac{1}{s}$, \quad $s>0$ \\ \hline
+$e^{at}$ & $\displaystyle\frac{1}{s-a}$, \quad $s>a$ \\ \hline
+$t^n$, $n=1, 2, ...$ & $\displaystyle\frac{n!}{s^{n+1}}$, \quad $s>0$ \\ \hline
+$\sin(bt)$ & $\displaystyle\frac{b}{s^2+b^2}$, \quad $s>0$ \\ \hline
+$\cos(bt)$ & $\displaystyle\frac{s}{s^2+b^2}$, \quad $s>0$ \\ \hline
+$e^{at}t^n$, $n=1, 2, ...$ & $\displaystyle\frac{n!}{(s-a)^{n+1}}$, \quad $s>a$ \\ \hline
+$e^{at}\sin(bt)$ & $\displaystyle\frac{b}{(s-a)^2+b^2}$, \quad $s>a$ \\ \hline
+$e^{at}\cos(bt)$ & $\displaystyle\frac{s-a}{(s-a)^2+b^2}$, \quad $s>a$ \\ \hline
+\end{tabular}
+}
+\end{center}
+
+\textbf{Properties of Laplace Transforms} \\
+\begin{center}
+{\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|l|l|} \hline
+1. Linearity Principle & $\mathscr{L}\{f+g\}=\mathscr{L}\{f\}+\mathscr{L}\{g\}$ \\ \hline
+2. Scalar Principle & $\mathscr{L}\{cf\}=c\mathscr{L}\{f\}$ for any constant $c$ \\ \hline
+3. Exponential & $\mathscr{L}\{e^{at}f(t)\}(s)=\mathscr{L}\{f\}(s-a)$ \\ \hline
+4. First Derivative & $\mathscr{L}\{f'\}(s)=s\mathscr{L}\{f\}(s)-f(0)$ \\ \hline
+5. Second Derivative & $\mathscr{L}\{f''\}(s)=s^2\mathscr{L}\{f\}(s)-sf(0)-f'(0)$ \\ \hline
+\end{tabular}
+}
+\end{center}
+
+\newpage
+\pagebegin{Summary of the Method of Partial Fraction Decomposition}
+\textbf{\underline{Method of Partial Fraction Decomposition -- Nonrepeated Linear Factors}} \\
+
+Let's have $F(s)$ be of the form $\displaystyle\frac{P(s)}{Q(s)}$. If $Q(s)$ can be factored into a product of distinct linear factors, $Q(s)=(s-r_1)(s-r_2)...(s-r_n)$, where the $r_i$'s are all distinct real numbers. Then the partial fraction expansion has the form
+\[
+\frac{P(s)}{Q(s)}=\frac{A_1}{s-r_1}+\frac{A_2}{s-r_2}+...+\frac{A_n}{s-r_n},
+\]
+where the $A_i$'s are real numbers. \\
+
+\textbf{\underline{Method of Partial Fraction Decomposition -- Repeated Linear Factors}} \\
+
+Let's have $F(s)$ be of the form $\displaystyle\frac{P(s)}{Q(s)}$. Let $s-r$ be a factor of $Q(s)$ and suppose $(s-r)^m$ is the highest power of $s-r$ that divides $Q(s)$. Then the portion of the partial fraction expansion of $P(s)/Q(s)$ that corresponds to the term $(s-r)^m$ is
+\[
+\frac{A_1}{s-r}+\frac{A_2}{(s-r)^2}+...+\frac{A_m}{(s-r)^m},
+\]
+where the $A_i$'s are real numbers. \\
+
+\textbf{\underline{Method of Partial Fraction Decomposition -- Quadractic Factors}} \\
+
+Let's have $F(s)$ be of the form $\displaystyle\frac{P(s)}{Q(s)}$. Let $Q(s)$ have a nonrepeated irreducible quadratic factor. Then for $Q(s)$ to the $m^{\text{th}}$ degree, then $P(s)/Q(s)$ can be written as
+\[
+\frac{A_1x+B_1}{a_1s^2+b_1x+c_1}+\frac{A_2x+B_2}{a_2s^2+b_2x+c_2}+...+\frac{A_mx+B_m}{a_ms^2+b_mx+c_m},
+\]
+where the $A_i$'s are real numbers.
+
+\newpage
+\pagebegin{Homework Set 15}
+
+\begin{enumerate} 
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15HWproblem1}
+\[
+y''+4y'+4y=e^{-2t}; \quad \text{where} \quad y(0)=0 \quad \text{and} \quad y'(0)=4
+\]
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15HWproblem2}
+\[
+y''-y'-2y=0; \quad \text{where} \quad y(0)=-2 \quad \text{and} \quad y'(0)=5
+\]
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15HWproblem3}
+\[
+y''+6y'+5y=12e^t; \quad \text{where} \quad y(0)=-1 \quad \text{and} \quad y'(0)=7
+\]
+\item Solve the following initial value problem using the Laplace Transform Method. \label{15HWproblem4}
+\[
+y'+4y=4t^2-4t+10; \quad \text{where} \quad y(0)=0
+\]
+\item \label{15HWproblem5}
+\begin{enumerate}
+\item Go to the glossary and identify all terms that are relevant to this unit and list those terms here.
+\item Are there other vocabulary terms that you think are relevant for this unit that were not included? If yes, list them.
+\end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+

@@ -1,0 +1,4709 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  30 AUG 2023 20:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**IODE.tex
+(./IODE.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen149
+))
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks19
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks20
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks21
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks28
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box53
+\extrarowheight=\dimen161
+\NC@list=\toks29
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
+\TX@cols=\count274
+\TX@ftn=\toks30
+)
+(c:/texlive/2022/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(c:/texlive/2022/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip67
+\fb@frw=\dimen167
+\fb@frh=\dimen168
+\FrameRule=\dimen169
+\FrameSep=\dimen170
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen171
+\pgfutil@tempdimb=\dimen172
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box55
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\pgf@xd=\dimen181
+\pgf@yd=\dimen182
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count279
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count280
+\pgfsyssoftpath@bigbuffer@items=\count281
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen183
+\pgfmath@count=\count282
+\pgfmath@box=\box56
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count283
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen184
+\pgf@picmaxx=\dimen185
+\pgf@picminy=\dimen186
+\pgf@picmaxy=\dimen187
+\pgf@pathminx=\dimen188
+\pgf@pathmaxx=\dimen189
+\pgf@pathminy=\dimen190
+\pgf@pathmaxy=\dimen191
+\pgf@xx=\dimen192
+\pgf@xy=\dimen193
+\pgf@yx=\dimen194
+\pgf@yy=\dimen195
+\pgf@zx=\dimen196
+\pgf@zy=\dimen197
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen198
+\pgf@path@lasty=\dimen199
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count284
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen258
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen262
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen263
+\pgf@sys@shading@range@num=\count285
+\pgf@shadingcount=\count286
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box60
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box61
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen264
+\pgf@nodesepend=\dimen265
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen266
+\pgffor@skip=\dimen267
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count287
+\pgfplotmarksize=\dimen268
+)
+\tikz@lastx=\dimen269
+\tikz@lasty=\dimen270
+\tikz@lastxsaved=\dimen271
+\tikz@lastysaved=\dimen272
+\tikz@lastmovetox=\dimen273
+\tikz@lastmovetoy=\dimen274
+\tikzleveldistance=\dimen275
+\tikzsiblingdistance=\dimen276
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count288
+\tikznumberofchildren=\count289
+\tikznumberofcurrentchild=\count290
+\tikz@fig@count=\count291
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count292
+\pgfmatrixcurrentcolumn=\count293
+\pgf@matrix@numberofcolumns=\count294
+)
+\tikz@expandcount=\count295
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+\@linkdim=\dimen277
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count300
+
+(c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen278
+
+(c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen279
+\Fld@charsize=\dimen280
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip68
+)
+(c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen281
+\enit@toks=\toks43
+\enit@inbox=\box66
+\enit@count@id=\count307
+\enitdp@description=\count308
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks44
+\verbatim@line=\toks45
+\verbatim@in@stream=\read3
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@probno=\count309
+\c@eqnno=\count310
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count311
+\l__pdf_internal_box=\box67
+)
+(./IODE.aux (./CoverPage/CoverPage.aux) (./01/01.aux) (./02/02.aux
+
+LaTeX Warning: Label `02problem2' multiply defined.
+
+) (./03/03.aux) (./04/04.aux) (./05/05.aux) (./06/06.aux) (./07/07.aux)
+(./08/08.aux) (./GlossaryA/GlossaryA.aux) (./09/09.aux) (./10/10.aux)
+(./11/11.aux) (./12/12.aux) (./13/13.aux) (./14/14.aux) (./15/15.aux)
+(./GlossaryB/GlossaryB.aux))
+\openout1 = `IODE.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 650.43pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=650.43pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-48.06749pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen282
+\scratchbox=\box68
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen283
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks47
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 116.
+
+(./IODE.out) (./IODE.out)
+\@outlinefile=\write4
+\openout4 = `IODE.out'.
+
+\openout2 = `CoverPage/CoverPage.aux'.
+
+ (./CoverPage/CoverPage.tex
+<IODE-logo-coverpage.png, id=240, 792.9625pt x 346.29375pt>
+File: IODE-logo-coverpage.png Graphic file (type png)
+<use IODE-logo-coverpage.png>
+Package pdftex.def Info: IODE-logo-coverpage.png  used on input line 20.
+(pdftex.def)             Requested size: 433.62pt x 189.36835pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24
+.
+
+(c:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
+<CopyrightCCBYNCSA.pdf, id=242, 121.45375pt x 43.16125pt>
+File: CopyrightCCBYNCSA.pdf Graphic file (type pdf)
+<use CopyrightCCBYNCSA.pdf>
+Package pdftex.def Info: CopyrightCCBYNCSA.pdf  used on input line 122.
+(pdftex.def)             Requested size: 42.67912pt x 15.16658pt.
+ [0
+
+
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./IODE-logo-cov
+erpage.png> <./CopyrightCCBYNCSA.pdf>]
+\openout2 = `01/01.aux'.
+
+ (./01/01.tex
+<IODE-logo.png, id=257, 770.88pt x 359.3425pt>
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 35.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[1
+
+
+
+ <./IODE-logo.png>]
+<01/01FishGraph.png, id=267, 744.7825pt x 508.90125pt>
+File: 01/01FishGraph.png Graphic file (type png)
+<use 01/01FishGraph.png>
+Package pdftex.def Info: 01/01FishGraph.png  used on input line 52.
+(pdftex.def)             Requested size: 252.94499pt x 172.83777pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[2
+
+ <./01/01FishGraph.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 90.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[3
+
+]
+<01/01MyFirstSlopeFieldwithTable.png, id=291, 432.61626pt x 283.0575pt>
+File: 01/01MyFirstSlopeFieldwithTable.png Graphic file (type png)
+<use 01/01MyFirstSlopeFieldwithTable.png>
+Package pdftex.def Info: 01/01MyFirstSlopeFieldwithTable.png  used on input lin
+e 107.
+(pdftex.def)             Requested size: 433.62pt x 283.72624pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 110.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[4
+
+ <./01/01MyFirstSlopeFieldwithTable.png>]
+<01/01SlopeField1.png, id=301, 529.98pt x 540.0175pt>
+File: 01/01SlopeField1.png Graphic file (type png)
+<use 01/01SlopeField1.png>
+Package pdftex.def Info: 01/01SlopeField1.png  used on input line 120.
+(pdftex.def)             Requested size: 198.7425pt x 202.50606pt.
+<01/01SlopeField2.png, id=302, 540.0175pt x 521.95pt>
+File: 01/01SlopeField2.png Graphic file (type png)
+<use 01/01SlopeField2.png>
+Package pdftex.def Info: 01/01SlopeField2.png  used on input line 121.
+(pdftex.def)             Requested size: 198.7425pt x 192.09108pt.
+<01/01SlopeField3.png, id=303, 549.05125pt x 532.99126pt>
+File: 01/01SlopeField3.png Graphic file (type png)
+<use 01/01SlopeField3.png>
+Package pdftex.def Info: 01/01SlopeField3.png  used on input line 125.
+(pdftex.def)             Requested size: 198.7425pt x 192.92583pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 132.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[5
+
+ <./01/01SlopeField1.png> <./01/01SlopeField2.png> <./01/01SlopeField3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+<01/01ValeriaGraph.pdf, id=316, 1112.155pt x 506.89375pt>
+File: 01/01ValeriaGraph.pdf Graphic file (type pdf)
+<use 01/01ValeriaGraph.pdf>
+Package pdftex.def Info: 01/01ValeriaGraph.pdf  used on input line 169.
+(pdftex.def)             Requested size: 361.34999pt x 164.69211pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 174.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[6
+
+ <./01/01ValeriaGraph.pdf>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 123.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[7]
+\openout2 = `02/02.aux'.
+
+ (./02/02.tex
+<02/02SlopeFieldViewerQR.png, id=363, 258.9675pt x 260.975pt>
+File: 02/02SlopeFieldViewerQR.png Graphic file (type png)
+<use 02/02SlopeFieldViewerQR.png>
+Package pdftex.def Info: 02/02SlopeFieldViewerQR.png  used on input line 31.
+(pdftex.def)             Requested size: 36.135pt x 36.4128pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 42.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \clearpage
+                [1
+
+
+
+ <./02/02SlopeFieldViewerQR.png>]
+<02/02SlopeFieldFish.png, id=374, 325.215pt x 685.56125pt>
+File: 02/02SlopeFieldFish.png Graphic file (type png)
+<use 02/02SlopeFieldFish.png>
+Package pdftex.def Info: 02/02SlopeFieldFish.png  used on input line 48.
+(pdftex.def)             Requested size: 144.54pt x 304.70244pt.
+<02/02SlopeFieldStitcherQR.png, id=376, 259.97125pt x 259.97125pt>
+File: 02/02SlopeFieldStitcherQR.png Graphic file (type png)
+<use 02/02SlopeFieldStitcherQR.png>
+Package pdftex.def Info: 02/02SlopeFieldStitcherQR.png  used on input line 58.
+(pdftex.def)             Requested size: 36.135pt x 36.13391pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \clearpage
+                [2
+
+ <./02/02SlopeFieldFish.png> <./02/02SlopeFieldStitcherQR.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 101.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 \clearpage
+                 [3
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 115.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \clearpage
+                 [4
+
+]
+<02/02HWSlopeField1.png, id=399, 525.965pt x 468.75125pt>
+File: 02/02HWSlopeField1.png Graphic file (type png)
+<use 02/02HWSlopeField1.png>
+Package pdftex.def Info: 02/02HWSlopeField1.png  used on input line 122.
+(pdftex.def)             Requested size: 433.62pt x 386.46704pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 151.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.151 \clearpage
+                 [5
+
+ <./02/02HWSlopeField1.png>]
+<02/02HWSlopeField2.png, id=411, 490.83376pt x 489.83pt>
+File: 02/02HWSlopeField2.png Graphic file (type png)
+<use 02/02HWSlopeField2.png>
+Package pdftex.def Info: 02/02HWSlopeField2.png  used on input line 155.
+(pdftex.def)             Requested size: 361.34999pt x 360.62239pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 178.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.178 \clearpage
+                 [6
+
+ <./02/02HWSlopeField2.png>]
+<02/02HWLotRExact.png, id=426, 339.2675pt x 351.3125pt>
+File: 02/02HWLotRExact.png Graphic file (type png)
+<use 02/02HWLotRExact.png>
+Package pdftex.def Info: 02/02HWLotRExact.png  used on input line 183.
+(pdftex.def)             Requested size: 144.54pt x 149.66766pt.
+<02/02HWLotRMerry.png, id=427, 336.25626pt x 383.4325pt>
+File: 02/02HWLotRMerry.png Graphic file (type png)
+<use 02/02HWLotRMerry.png>
+Package pdftex.def Info: 02/02HWLotRMerry.png  used on input line 189.
+(pdftex.def)             Requested size: 144.54pt x 164.8201pt.
+<02/02HWLotRPippin.png, id=428, 339.2675pt x 389.455pt>
+File: 02/02HWLotRPippin.png Graphic file (type png)
+<use 02/02HWLotRPippin.png>
+Package pdftex.def Info: 02/02HWLotRPippin.png  used on input line 189.
+(pdftex.def)             Requested size: 144.54pt x 165.9173pt.
+<02/02HWLotRSam.png, id=429, 344.28625pt x 388.45125pt>
+File: 02/02HWLotRSam.png Graphic file (type png)
+<use 02/02HWLotRSam.png>
+Package pdftex.def Info: 02/02HWLotRSam.png  used on input line 189.
+(pdftex.def)             Requested size: 144.54pt x 163.0832pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 200.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \newpage
+               [7
+
+ <./02/02HWLotRExact.png> <./02/02HWLotRMerry.png> <./02/02HWLotRPippin.png> <.
+/02/02HWLotRSam.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 234.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[8])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 124.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[9
+
+]
+\openout2 = `03/03.aux'.
+
+ (./03/03.tex
+<03/03TomJerry.png, id=462, 269.50688pt x 331.2375pt>
+File: 03/03TomJerry.png Graphic file (type png)
+<use 03/03TomJerry.png>
+Package pdftex.def Info: 03/03TomJerry.png  used on input line 31.
+(pdftex.def)             Requested size: 216.81pt x 266.4763pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 34.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \clearpage
+                [1
+
+
+
+ <./03/03TomJerry.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 50.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 \clearpage
+                [2
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 99.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 \clearpage
+                [3
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 130.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.130 \clearpage
+                 [4
+
+]
+<03/03IVPQR.png, id=487, 257.96375pt x 260.975pt>
+File: 03/03IVPQR.png Graphic file (type png)
+<use 03/03IVPQR.png>
+Package pdftex.def Info: 03/03IVPQR.png  used on input line 145.
+(pdftex.def)             Requested size: 36.135pt x 36.55615pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 154.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.154 \clearpage
+                 [5
+
+ <./03/03IVPQR.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 181.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \clearpage
+                 [6
+
+]
+<03/03SlopeField1.png, id=516, 432.61626pt x 435.6275pt>
+File: 03/03SlopeField1.png Graphic file (type png)
+<use 03/03SlopeField1.png>
+Package pdftex.def Info: 03/03SlopeField1.png  used on input line 186.
+(pdftex.def)             Requested size: 289.07999pt x 291.10449pt.
+<03/03SlopeField2.png, id=517, 426.59375pt x 433.62pt>
+File: 03/03SlopeField2.png Graphic file (type png)
+<use 03/03SlopeField2.png>
+Package pdftex.def Info: 03/03SlopeField2.png  used on input line 191.
+(pdftex.def)             Requested size: 289.07999pt x 293.85861pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 194.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \clearpage
+                 [7
+
+ <./03/03SlopeField1.png> <./03/03SlopeField2.png>]
+<03/03Denise.png, id=523, 100.12407pt x 82.05656pt>
+File: 03/03Denise.png Graphic file (type png)
+<use 03/03Denise.png>
+Package pdftex.def Info: 03/03Denise.png  used on input line 223.
+(pdftex.def)             Requested size: 100.12381pt x 82.05635pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 227.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \clearpage
+                 [8
+
+ <./03/03Denise.png>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 125.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 \include{03/03}
+                      [9
+
+]
+\openout2 = `04/04.aux'.
+
+ (./04/04.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 31.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 \clearpage
+                [1
+
+
+
+]
+<04/04SaltyTankQR.png, id=558, 255.95625pt x 257.96375pt>
+File: 04/04SaltyTankQR.png Graphic file (type png)
+<use 04/04SaltyTankQR.png>
+Package pdftex.def Info: 04/04SaltyTankQR.png  used on input line 37.
+(pdftex.def)             Requested size: 36.135pt x 36.41776pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 40.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \clearpage
+                [2
+
+ <./04/04SaltyTankQR.png>]
+Overfull \hbox (14.47191pt too wide) in paragraph at lines 55--68
+ [] 
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 70.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.70 \clearpage
+                [3
+
+]
+Overfull \hbox (14.47191pt too wide) in paragraph at lines 74--94
+ [] 
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 99.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 \clearpage
+                [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 110.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.110 \newpage
+               [5
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 122.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.122 \clearpage
+                 [6]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 159.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.159 \clearpage
+                 [7
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 192.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.192 
+       [8
+
+])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 126.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \include{04/04}
+                      [9]
+\openout2 = `05/05.aux'.
+
+ (./05/05.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 42.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \clearpage
+                [1
+
+
+
+]
+<05/05ProposedPathsQR.png, id=643, 259.97125pt x 261.97874pt>
+File: 05/05ProposedPathsQR.png Graphic file (type png)
+<use 05/05ProposedPathsQR.png>
+Package pdftex.def Info: 05/05ProposedPathsQR.png  used on input line 48.
+(pdftex.def)             Requested size: 36.135pt x 36.41293pt.
+<05/05ZoomedIn.png, id=644, 1045.9075pt x 445.665pt>
+File: 05/05ZoomedIn.png Graphic file (type png)
+<use 05/05ZoomedIn.png>
+Package pdftex.def Info: 05/05ZoomedIn.png  used on input line 51.
+(pdftex.def)             Requested size: 433.62pt x 184.77072pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 72.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.72 \newpage
+              [2
+
+ <./05/05ProposedPathsQR.png> <./05/05ZoomedIn.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 86.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 \newpage
+              [3]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 102.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 \newpage
+               [4]
+<05/05Dotted.png, id=671, 555.07375pt x 389.455pt>
+File: 05/05Dotted.png Graphic file (type png)
+<use 05/05Dotted.png>
+Package pdftex.def Info: 05/05Dotted.png  used on input line 106.
+(pdftex.def)             Requested size: 361.34999pt x 253.53496pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 118.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.118 \clearpage
+                 [5 <./05/05Dotted.png>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 127.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127 \include{05/05}
+                      [6
+
+]
+\openout2 = `06/06.aux'.
+
+ (./06/06.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 25.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \clearpage
+                [1
+
+
+
+]
+<06/06PhaseLine.png, id=699, 74.2775pt x 445.665pt>
+File: 06/06PhaseLine.png Graphic file (type png)
+<use 06/06PhaseLine.png>
+Package pdftex.def Info: 06/06PhaseLine.png  used on input line 27.
+(pdftex.def)             Requested size: 54.2025pt x 325.23074pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 33.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 \clearpage
+                [2
+
+ <./06/06PhaseLine.png>]
+<06/06PhaseLineAndSomeVectors.png, id=709, 708.6475pt x 630.355pt>
+File: 06/06PhaseLineAndSomeVectors.png Graphic file (type png)
+<use 06/06PhaseLineAndSomeVectors.png>
+Package pdftex.def Info: 06/06PhaseLineAndSomeVectors.png  used on input line 4
+0.
+(pdftex.def)             Requested size: 433.62pt x 385.71829pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 42.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \clearpage
+                [3
+
+ <./06/06PhaseLineAndSomeVectors.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 54.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \clearpage
+                [4
+
+]
+<06/06HWSlopeFieldA.png, id=723, 443.6575pt x 450.68375pt>
+File: 06/06HWSlopeFieldA.png Graphic file (type png)
+<use 06/06HWSlopeFieldA.png>
+Package pdftex.def Info: 06/06HWSlopeFieldA.png  used on input line 70.
+(pdftex.def)             Requested size: 216.81pt x 220.23866pt.
+<06/06HWSlopeFieldB.png, id=724, 459.7175pt x 471.7625pt>
+File: 06/06HWSlopeFieldB.png Graphic file (type png)
+<use 06/06HWSlopeFieldB.png>
+Package pdftex.def Info: 06/06HWSlopeFieldB.png  used on input line 71.
+(pdftex.def)             Requested size: 216.81pt x 222.49144pt.
+<06/06HWSlopeFieldC.png, id=725, 484.81125pt x 499.8675pt>
+File: 06/06HWSlopeFieldC.png Graphic file (type png)
+<use 06/06HWSlopeFieldC.png>
+Package pdftex.def Info: 06/06HWSlopeFieldC.png  used on input line 72.
+(pdftex.def)             Requested size: 216.81pt x 223.54248pt.
+<06/06HWSlopeFieldD.png, id=726, 457.71pt x 459.7175pt>
+File: 06/06HWSlopeFieldD.png Graphic file (type png)
+<use 06/06HWSlopeFieldD.png>
+Package pdftex.def Info: 06/06HWSlopeFieldD.png  used on input line 73.
+(pdftex.def)             Requested size: 216.81pt x 217.7578pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 76.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.76 \item F
+            or each part below, create a continuous, autonomous differential...
+[5
+
+ <./06/06HWSlopeFieldA.png> <./06/06HWSlopeFieldB.png>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 128.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.128 \include{06/06}
+                      [6 <./06/06HWSlopeFieldC.png> <./06/06HWSlopeFieldD.png>]
+\openout2 = `07/07.aux'.
+
+(./07/07.tex
+<07/07CoffeeCup.png, id=761, 56.46094pt x 34.62938pt>
+File: 07/07CoffeeCup.png Graphic file (type png)
+<use 07/07CoffeeCup.png>
+Package pdftex.def Info: 07/07CoffeeCup.png  used on input line 17.
+(pdftex.def)             Requested size: 56.46078pt x 34.62927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+<07/07dCdt.png, id=762, 350.30875pt x 305.14pt>
+File: 07/07dCdt.png Graphic file (type png)
+<use 07/07dCdt.png>
+Package pdftex.def Info: 07/07dCdt.png  used on input line 41.
+(pdftex.def)             Requested size: 216.81pt x 188.8589pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 44.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \clearpage
+                [1
+
+
+
+ <./07/07CoffeeCup.png> <./07/07dCdt.png>]
+<07/07CoolingCoffeeQR.png, id=773, 257.96375pt x 262.9825pt>
+File: 07/07CoolingCoffeeQR.png Graphic file (type png)
+<use 07/07CoolingCoffeeQR.png>
+Package pdftex.def Info: 07/07CoolingCoffeeQR.png  used on input line 52.
+(pdftex.def)             Requested size: 36.135pt x 36.83736pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 55.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \clearpage
+                [2
+
+ <./07/07CoolingCoffeeQR.png>]
+<07/07CoffeeEquilibrium.png, id=784, 574.145pt x 387.4475pt>
+File: 07/07CoffeeEquilibrium.png Graphic file (type png)
+<use 07/07CoffeeEquilibrium.png>
+Package pdftex.def Info: 07/07CoffeeEquilibrium.png  used on input line 61.
+(pdftex.def)             Requested size: 216.81pt x 146.30931pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 66.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \clearpage
+                [3
+
+ <./07/07CoffeeEquilibrium.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 97.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 \clearpage
+                [4
+
+]
+<07/07Bugs1.png, id=796, 443.6575pt x 563.10374pt>
+File: 07/07Bugs1.png Graphic file (type png)
+<use 07/07Bugs1.png>
+Package pdftex.def Info: 07/07Bugs1.png  used on input line 105.
+(pdftex.def)             Requested size: 252.94499pt x 321.0412pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 118.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.118 \clearpage
+                 [5
+
+ <./07/07Bugs1.png>]
+<07/07Bugs2.png, id=808, 420.57124pt x 347.2975pt>
+File: 07/07Bugs2.png Graphic file (type png)
+<use 07/07Bugs2.png>
+Package pdftex.def Info: 07/07Bugs2.png  used on input line 121.
+(pdftex.def)             Requested size: 252.94499pt x 208.87823pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 126.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \clearpage
+                 [6
+
+ <./07/07Bugs2.png>]
+<07/07HWgraph1.png, id=814, 469.755pt x 363.3575pt>
+File: 07/07HWgraph1.png Graphic file (type png)
+<use 07/07HWgraph1.png>
+Package pdftex.def Info: 07/07HWgraph1.png  used on input line 139.
+(pdftex.def)             Requested size: 216.81pt x 167.70091pt.
+<07/07HWgraph2.png, id=815, 419.5675pt x 360.34625pt>
+File: 07/07HWgraph2.png Graphic file (type png)
+<use 07/07HWgraph2.png>
+Package pdftex.def Info: 07/07HWgraph2.png  used on input line 140.
+(pdftex.def)             Requested size: 216.81pt x 186.20445pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 148.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 \clearpage
+                 [7
+
+ <./07/07HWgraph1.png> <./07/07HWgraph2.png>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 129.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \include{07/07}
+                      [8
+
+]
+\openout2 = `08/08.aux'.
+
+ (./08/08.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 22.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22 \clearpage
+                [1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 31.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 \clearpage
+                [2
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 35.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 \clearpage
+                [3
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 44.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \clearpage
+                [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 53.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \clearpage
+                [5
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 55.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \clearpage
+                [6
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 61.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 \clearpage
+                [7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<08/08Bifurcation.png, id=888, 609.27625pt x 473.26813pt>
+File: 08/08Bifurcation.png Graphic file (type png)
+<use 08/08Bifurcation.png>
+Package pdftex.def Info: 08/08Bifurcation.png  used on input line 74.
+(pdftex.def)             Requested size: 361.34999pt x 280.69173pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 76.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.76 \clearpage
+                [8
+
+ <./08/08Bifurcation.png>])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 130.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.130 \include{08/08}
+                      [9
+
+]
+\openout2 = `GlossaryA/GlossaryA.aux'.
+
+ (./GlossaryA/GlossaryA.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 32.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 \item[Runge-Kutta (RK4) method:]
+                                      A fourth order method used in solving ...
+[1
+
+
+
+])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 131.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.131 \include{GlossaryA/GlossaryA}
+                                    [2]
+\openout2 = `09/09.aux'.
+
+ (./09/09.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 51.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 \clearpage
+                [1
+
+
+
+]
+<09/09fig1.png, id=943, 94.85437pt x 45.16875pt>
+File: 09/09fig1.png Graphic file (type png)
+<use 09/09fig1.png>
+Package pdftex.def Info: 09/09fig1.png  used on input line 56.
+(pdftex.def)             Requested size: 94.85413pt x 45.16862pt.
+<09/09fig2.png, id=944, 17.31468pt x 29.35968pt>
+File: 09/09fig2.png Graphic file (type png)
+<use 09/09fig2.png>
+Package pdftex.def Info: 09/09fig2.png  used on input line 62.
+(pdftex.def)             Requested size: 17.31462pt x 29.35959pt.
+<09/09fig3.png, id=945, 258.9675pt x 98.3675pt>
+File: 09/09fig3.png Graphic file (type png)
+<use 09/09fig3.png>
+Package pdftex.def Info: 09/09fig3.png  used on input line 66.
+(pdftex.def)             Requested size: 144.54pt x 54.90529pt.
+File: 09/09fig2.png Graphic file (type png)
+<use 09/09fig2.png>
+Package pdftex.def Info: 09/09fig2.png  used on input line 67.
+(pdftex.def)             Requested size: 17.31462pt x 29.35959pt.
+File: 09/09fig2.png Graphic file (type png)
+<use 09/09fig2.png>
+Package pdftex.def Info: 09/09fig2.png  used on input line 72.
+(pdftex.def)             Requested size: 17.31462pt x 29.35959pt.
+File: 09/09fig2.png Graphic file (type png)
+<use 09/09fig2.png>
+Package pdftex.def Info: 09/09fig2.png  used on input line 77.
+(pdftex.def)             Requested size: 17.31462pt x 29.35959pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 93.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \clearpage
+                [2
+
+ <./09/09fig1.png> <./09/09fig2.png> <./09/09fig3.png>]
+<09/09DEExplorerQR.png, id=958, 257.96375pt x 258.9675pt>
+File: 09/09DEExplorerQR.png Graphic file (type png)
+<use 09/09DEExplorerQR.png>
+Package pdftex.def Info: 09/09DEExplorerQR.png  used on input line 105.
+(pdftex.def)             Requested size: 36.135pt x 36.27495pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 111.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 \clearpage
+                 [3
+
+ <./09/09DEExplorerQR.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 130.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.130 \clearpage
+                 [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 133.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 \clearpage
+                 [5
+
+]
+<09/09Clockwise.png, id=989, 794.97pt x 614.295pt>
+File: 09/09Clockwise.png Graphic file (type png)
+<use 09/09Clockwise.png>
+Package pdftex.def Info: 09/09Clockwise.png  used on input line 149.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 168.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.168 \clearpage
+                 [6
+
+ <./09/09Clockwise.png>]
+<09/09VectorField1.png, id=998, 414.54875pt x 421.575pt>
+File: 09/09VectorField1.png Graphic file (type png)
+<use 09/09VectorField1.png>
+Package pdftex.def Info: 09/09VectorField1.png  used on input line 183.
+(pdftex.def)             Requested size: 289.07999pt x 293.98763pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 194.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \end{align*}
+                   [7
+
+ <./09/09VectorField1.png>]
+<09/09VectorField2.png, id=1006, 505.89pt x 511.9125pt>
+File: 09/09VectorField2.png Graphic file (type png)
+<use 09/09VectorField2.png>
+Package pdftex.def Info: 09/09VectorField2.png  used on input line 196.
+(pdftex.def)             Requested size: 361.34999pt x 365.65535pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 201.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.201 \clearpage
+                 [8 <./09/09VectorField2.png>]
+<09/09Nullclines.png, id=1014, 440.64626pt x 483.8075pt>
+File: 09/09Nullclines.png Graphic file (type png)
+<use 09/09Nullclines.png>
+Package pdftex.def Info: 09/09Nullclines.png  used on input line 211.
+(pdftex.def)             Requested size: 361.34999pt x 396.76163pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 216.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 \clearpage
+                 [9
+
+ <./09/09Nullclines.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+File: 09/09DEExplorerQR.png Graphic file (type png)
+<use 09/09DEExplorerQR.png>
+Package pdftex.def Info: 09/09DEExplorerQR.png  used on input line 230.
+(pdftex.def)             Requested size: 36.135pt x 36.27495pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 245.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[10
+
+]
+<09/09HWVectorFieldMatchA.png, id=1040, 493.845pt x 487.8225pt>
+File: 09/09HWVectorFieldMatchA.png Graphic file (type png)
+<use 09/09HWVectorFieldMatchA.png>
+Package pdftex.def Info: 09/09HWVectorFieldMatchA.png  used on input line 249.
+(pdftex.def)             Requested size: 216.81pt x 214.15872pt.
+<09/09HWVectorFieldMatchB.png, id=1041, 474.77374pt x 462.72874pt>
+File: 09/09HWVectorFieldMatchB.png Graphic file (type png)
+<use 09/09HWVectorFieldMatchB.png>
+Package pdftex.def Info: 09/09HWVectorFieldMatchB.png  used on input line 250.
+(pdftex.def)             Requested size: 216.81pt x 211.31152pt.
+<09/09HWVectorFieldMatchC.png, id=1042, 727.71875pt x 487.8225pt>
+File: 09/09HWVectorFieldMatchC.png Graphic file (type png)
+<use 09/09HWVectorFieldMatchC.png>
+Package pdftex.def Info: 09/09HWVectorFieldMatchC.png  used on input line 251.
+(pdftex.def)             Requested size: 216.81pt x 145.33554pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 278.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[11
+
+ <./09/09HWVectorFieldMatchA.png> <./09/09HWVectorFieldMatchB.png> <./09/09HWVe
+ctorFieldMatchC.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 313.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[12
+
+]
+<09/09HWPhasePlaneSolution1.png, id=1069, 622.325pt x 607.26875pt>
+File: 09/09HWPhasePlaneSolution1.png Graphic file (type png)
+<use 09/09HWPhasePlaneSolution1.png>
+Package pdftex.def Info: 09/09HWPhasePlaneSolution1.png  used on input line 317
+.
+(pdftex.def)             Requested size: 216.81pt x 211.56503pt.
+<09/09HWPhasePlaneSolution2.png, id=1070, 559.08875pt x 568.1225pt>
+File: 09/09HWPhasePlaneSolution2.png Graphic file (type png)
+<use 09/09HWPhasePlaneSolution2.png>
+Package pdftex.def Info: 09/09HWPhasePlaneSolution2.png  used on input line 318
+.
+(pdftex.def)             Requested size: 216.81pt x 220.30989pt.
+<09/09HWPhasePlaneSolution3.png, id=1071, 529.98pt x 540.0175pt>
+File: 09/09HWPhasePlaneSolution3.png Graphic file (type png)
+<use 09/09HWPhasePlaneSolution3.png>
+Package pdftex.def Info: 09/09HWPhasePlaneSolution3.png  used on input line 319
+.
+(pdftex.def)             Requested size: 216.81pt x 220.9142pt.
+<09/09HWPhasePlaneSolution4.png, id=1072, 540.0175pt x 548.0475pt>
+File: 09/09HWPhasePlaneSolution4.png Graphic file (type png)
+<use 09/09HWPhasePlaneSolution4.png>
+Package pdftex.def Info: 09/09HWPhasePlaneSolution4.png  used on input line 320
+.
+(pdftex.def)             Requested size: 216.81pt x 220.02628pt.
+)
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 132.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[13
+
+ <./09/09HWPhasePlaneSolution1.png> <./09/09HWPhasePlaneSolution2.png> <./09/09
+HWPhasePlaneSolution3.png> <./09/09HWPhasePlaneSolution4.png>]
+\openout2 = `10/10.aux'.
+
+ (./10/10.tex
+<10/10SpringMass.png, id=1090, 544.0325pt x 268.00125pt>
+File: 10/10SpringMass.png Graphic file (type png)
+<use 10/10SpringMass.png>
+Package pdftex.def Info: 10/10SpringMass.png  used on input line 21.
+(pdftex.def)             Requested size: 144.54pt x 71.20401pt.
+<10/10VelPos.png, id=1091, 568.1225pt x 510.90875pt>
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 29.
+(pdftex.def)             Requested size: 126.47249pt x 113.73335pt.
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 29.
+(pdftex.def)             Requested size: 126.47249pt x 113.73335pt.
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 29.
+(pdftex.def)             Requested size: 126.47249pt x 113.73335pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 35.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 \clearpage
+                [1
+
+
+
+ <./10/10SpringMass.png> <./10/10VelPos.png>]
+<10/10SpringMassExplorationQR.png, id=1100, 255.95625pt x 258.9675pt>
+File: 10/10SpringMassExplorationQR.png Graphic file (type png)
+<use 10/10SpringMassExplorationQR.png>
+Package pdftex.def Info: 10/10SpringMassExplorationQR.png  used on input line 4
+6.
+(pdftex.def)             Requested size: 36.135pt x 36.55946pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 49.
+(pdftex.def)             Requested size: 144.54pt x 129.97986pt.
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 49.
+(pdftex.def)             Requested size: 144.54pt x 129.97986pt.
+File: 10/10VelPos.png Graphic file (type png)
+<use 10/10VelPos.png>
+Package pdftex.def Info: 10/10VelPos.png  used on input line 49.
+(pdftex.def)             Requested size: 144.54pt x 129.97986pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 52.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 \clearpage
+                [2
+
+ <./10/10SpringMassExplorationQR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+<10/10JoeyKara1.png, id=1106, 397.485pt x 409.53pt>
+File: 10/10JoeyKara1.png Graphic file (type png)
+<use 10/10JoeyKara1.png>
+Package pdftex.def Info: 10/10JoeyKara1.png  used on input line 61.
+(pdftex.def)             Requested size: 289.07999pt x 297.84834pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \clearpage
+                [3
+
+ <./10/10JoeyKara1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+<10/10JoeyKara2.png, id=1112, 495.8525pt x 426.59375pt>
+File: 10/10JoeyKara2.png Graphic file (type png)
+<use 10/10JoeyKara2.png>
+Package pdftex.def Info: 10/10JoeyKara2.png  used on input line 67.
+(pdftex.def)             Requested size: 289.07999pt x 248.70036pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 74.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 \clearpage
+                [4
+
+ <./10/10JoeyKara2.png>]
+<10/10VectorField1.png, id=1120, 499.8675pt x 510.90875pt>
+File: 10/10VectorField1.png Graphic file (type png)
+<use 10/10VectorField1.png>
+Package pdftex.def Info: 10/10VectorField1.png  used on input line 83.
+(pdftex.def)             Requested size: 289.07999pt x 295.47754pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 88.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88 \clearpage
+                [5
+
+ <./10/10VectorField1.png>]
+<10/10SLSQR.png, id=1127, 243.91125pt x 242.9075pt>
+File: 10/10SLSQR.png Graphic file (type png)
+<use 10/10SLSQR.png>
+Package pdftex.def Info: 10/10SLSQR.png  used on input line 97.
+(pdftex.def)             Requested size: 36.135pt x 35.98607pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 106.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 \clearpage
+                 [6
+
+ <./10/10SLSQR.png>]
+<10/10VectorField2.png, id=1141, 515.9275pt x 514.92375pt>
+File: 10/10VectorField2.png Graphic file (type png)
+<use 10/10VectorField2.png>
+Package pdftex.def Info: 10/10VectorField2.png  used on input line 112.
+(pdftex.def)             Requested size: 289.07999pt x 288.52818pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 119.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \clearpage
+                 [7
+
+ <./10/10VectorField2.png>]
+<10/10LinearCombinationsQR.png, id=1152, 257.96375pt x 260.975pt>
+File: 10/10LinearCombinationsQR.png Graphic file (type png)
+<use 10/10LinearCombinationsQR.png>
+Package pdftex.def Info: 10/10LinearCombinationsQR.png  used on input line 126.
+
+(pdftex.def)             Requested size: 36.135pt x 36.55615pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 131.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.131 \clearpage
+                 [8
+
+ <./10/10LinearCombinationsQR.png>]
+Overfull \hbox (24.45567pt too wide) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/10.95 Sketch these so-lu-tions in 3D. Use this app for help if n
+eeded: []$[]$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+<10/103DQR.png, id=1162, 247.92625pt x 241.90375pt>
+File: 10/103DQR.png Graphic file (type png)
+<use 10/103DQR.png>
+Package pdftex.def Info: 10/103DQR.png  used on input line 144.
+(pdftex.def)             Requested size: 36.135pt x 35.25417pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 151.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.151 \clearpage
+                 [9
+
+ <./10/103DQR.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 192.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.192 \clearpage
+                 [10
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 212.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \clearpage
+                 [11
+
+]
+<10/10HWVectorField.png, id=1192, 566.115pt x 556.0775pt>
+File: 10/10HWVectorField.png Graphic file (type png)
+<use 10/10HWVectorField.png>
+Package pdftex.def Info: 10/10HWVectorField.png  used on input line 221.
+(pdftex.def)             Requested size: 289.07999pt x 283.96063pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 230.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 \clearpage
+                 [12
+
+ <./10/10HWVectorField.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 261.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.261 \clearpage
+                 [13
+
+]
+<10/10VectorFieldQR.png, id=1217, 256.96pt x 257.96375pt>
+File: 10/10VectorFieldQR.png Graphic file (type png)
+<use 10/10VectorFieldQR.png>
+Package pdftex.def Info: 10/10VectorFieldQR.png  used on input line 270.
+(pdftex.def)             Requested size: 36.135pt x 36.27605pt.
+)
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 133.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+[14
+
+ <./10/10VectorFieldQR.png>]
+\openout2 = `11/11.aux'.
+
+ (./11/11.tex
+<11/11SpringMass.png, id=1229, 544.0325pt x 268.00125pt>
+File: 11/11SpringMass.png Graphic file (type png)
+<use 11/11SpringMass.png>
+Package pdftex.def Info: 11/11SpringMass.png  used on input line 22.
+(pdftex.def)             Requested size: 144.54pt x 71.20401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+<11/11figure.png, id=1232, 554.07pt x 554.07pt>
+File: 11/11figure.png Graphic file (type png)
+<use 11/11figure.png>
+Package pdftex.def Info: 11/11figure.png  used on input line 29.
+(pdftex.def)             Requested size: 252.94499pt x 252.94768pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 32.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 \clearpage
+                [1
+
+
+
+ <./11/11SpringMass.png> <./11/11figure.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 44.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \clearpage
+                [2
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 50.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 \clearpage
+                [3
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \clearpage
+                [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 77.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 \clearpage
+                [5
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 102.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 \clearpage
+                 [6
+
+]
+<11/11HWVectorField1.png, id=1270, 577.15625pt x 564.1075pt>
+File: 11/11HWVectorField1.png Graphic file (type png)
+<use 11/11HWVectorField1.png>
+Package pdftex.def Info: 11/11HWVectorField1.png  used on input line 106.
+(pdftex.def)             Requested size: 180.67499pt x 176.59302pt.
+<11/11HWVectorField2.png, id=1271, 530.98375pt x 523.9575pt>
+File: 11/11HWVectorField2.png Graphic file (type png)
+<use 11/11HWVectorField2.png>
+Package pdftex.def Info: 11/11HWVectorField2.png  used on input line 107.
+(pdftex.def)             Requested size: 180.67499pt x 178.2871pt.
+<11/11HWVectorField3.png, id=1272, 553.06625pt x 549.05125pt>
+File: 11/11HWVectorField3.png Graphic file (type png)
+<use 11/11HWVectorField3.png>
+Package pdftex.def Info: 11/11HWVectorField3.png  used on input line 108.
+(pdftex.def)             Requested size: 180.67499pt x 179.3611pt.
+<11/11HWVectorField4.png, id=1273, 497.86pt x 472.76625pt>
+File: 11/11HWVectorField4.png Graphic file (type png)
+<use 11/11HWVectorField4.png>
+Package pdftex.def Info: 11/11HWVectorField4.png  used on input line 109.
+(pdftex.def)             Requested size: 180.67499pt x 171.57355pt.
+
+Overfull \hbox (4.28041pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/10.95 Phase plane (A) cor-re-sponds to [] and the so-lu-tions lo
+ok like $\OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr
+/m/n/10.95 )$=[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Overfull \hbox (3.82417pt too wide) in paragraph at lines 129--130
+[]\OT1/cmr/m/n/10.95 Phase plane (B) cor-re-sponds to [] and the so-lu-tions lo
+ok like $\OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr
+/m/n/10.95 )$=[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Overfull \hbox (3.97624pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10.95 Phase plane (C) cor-re-sponds to [] and the so-lu-tions lo
+ok like $\OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr
+/m/n/10.95 )$=[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Overfull \hbox (4.4325pt too wide) in paragraph at lines 133--134
+[]\OT1/cmr/m/n/10.95 Phase plane (D) cor-re-sponds to [] and the so-lu-tions lo
+ok like $\OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr
+/m/n/10.95 )$=[] 
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 135.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \clearpage
+                 [7
+
+ <./11/11HWVectorField1.png> <./11/11HWVectorField2.png> <./11/11HWVectorField3
+.png> <./11/11HWVectorField4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 192.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.192 \end{split}.\label{12HWeqn1}\end{align}
+                                              [8
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 222.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.222 \clearpage
+                 [9])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 134.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.134 \include{11/11}
+                      [10
+
+]
+\openout2 = `12/12.aux'.
+
+ (./12/12.tex
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 52.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 \clearpage
+                [1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 82.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.82 \clearpage
+                [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 108.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108 \clearpage
+                 [3
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.108 \clearpage
+                ]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 166.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.166 
+       [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 185.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 \clearpage
+                 [5]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 263.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.263 \]
+         [6
+
+])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 135.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \include{12/12}
+                      [7]
+\openout2 = `13/13.aux'.
+
+ (./13/13.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 38.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \clearpage
+                [1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \clearpage
+                [2
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 70.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.70 \clearpage
+                [3
+
+]
+Underfull \hbox (badness 1796) in paragraph at lines 78--78
+\OT1/cmr/m/n/10.95 dif-fer-en-tial equa-tion, one for each
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 85.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 \clearpage
+                [4
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 106.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 \newpage
+               [5
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 115.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \clearpage
+                 [6]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 129.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \clearpage
+                 [7
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 140.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \clearpage
+                 [8
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 161.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.161 \clearpage
+                 [9
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 180.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.180 \clearpage
+                 [10
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 199.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.199 \clearpage
+                 [11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 239.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.239 \newpage
+               [12
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 278.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.278 \clearpage
+                 [13])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 136.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.136 \include{13/13}
+                      [14
+
+]
+\openout2 = `14/14.aux'.
+
+ (./14/14.tex
+<14/14Pendulum1.png, id=1483, 173.64874pt x 212.795pt>
+File: 14/14Pendulum1.png Graphic file (type png)
+<use 14/14Pendulum1.png>
+Package pdftex.def Info: 14/14Pendulum1.png  used on input line 20.
+(pdftex.def)             Requested size: 108.405pt x 132.84717pt.
+<14/14vtheta.png, id=1484, 342.27875pt x 339.2675pt>
+File: 14/14vtheta.png Graphic file (type png)
+<use 14/14vtheta.png>
+Package pdftex.def Info: 14/14vtheta.png  used on input line 25.
+(pdftex.def)             Requested size: 216.81pt x 214.9096pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 28.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \clearpage
+                [1
+
+
+
+ <./14/14Pendulum1.png> <./14/14vtheta.png>]
+<14/14PendulumQR.png, id=1495, 260.975pt x 258.9675pt>
+File: 14/14PendulumQR.png Graphic file (type png)
+<use 14/14PendulumQR.png>
+Package pdftex.def Info: 14/14PendulumQR.png  used on input line 50.
+(pdftex.def)             Requested size: 36.135pt x 35.8561pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 53.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \clearpage
+                [2
+
+ <./14/14PendulumQR.png>]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 75.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.75 \clearpage
+                [3
+
+]
+<14/14VectorFieldQR.png, id=1514, 256.96pt x 257.96375pt>
+File: 14/14VectorFieldQR.png Graphic file (type png)
+<use 14/14VectorFieldQR.png>
+Package pdftex.def Info: 14/14VectorFieldQR.png  used on input line 93.
+(pdftex.def)             Requested size: 36.135pt x 36.27605pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 98.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 \clearpage
+                [4
+
+ <./14/14VectorFieldQR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 124.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.124 \clearpage
+                 [5
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 137.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \clearpage
+                 [6
+
+]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 163.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.163 \clearpage
+                 [7
+
+]
+File: 14/14VectorFieldQR.png Graphic file (type png)
+<use 14/14VectorFieldQR.png>
+Package pdftex.def Info: 14/14VectorFieldQR.png  used on input line 194.
+(pdftex.def)             Requested size: 36.135pt x 36.27605pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 200.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \clearpage
+                 [8
+
+]
+<14/14HWphaseplane.png, id=1552, 598.235pt x 594.22pt>
+File: 14/14HWphaseplane.png Graphic file (type png)
+<use 14/14HWphaseplane.png>
+Package pdftex.def Info: 14/14HWphaseplane.png  used on input line 204.
+(pdftex.def)             Requested size: 361.34999pt x 358.92845pt.
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 211.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 \clearpage
+                 [9
+
+ <./14/14HWphaseplane.png>]
+<14/14Pendulum2.png, id=1561, 206.7725pt x 279.0425pt>
+File: 14/14Pendulum2.png Graphic file (type png)
+<use 14/14Pendulum2.png>
+Package pdftex.def Info: 14/14Pendulum2.png  used on input line 215.
+(pdftex.def)             Requested size: 144.54pt x 195.06442pt.
+)
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 137.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \include{14/14}
+                      [10
+
+ <./14/14Pendulum2.png>]
+\openout2 = `15/15.aux'.
+
+ (./15/15.tex
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 62.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.62 \newpage
+              [1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 83.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.83 \newpage
+              [2]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 90.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.90 \newpage
+              [3]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 121.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.121 \newpage
+               [4]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 127.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127 \newpage
+               [5]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 142.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.142 \newpage
+               [6]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 154.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.154 \newpage
+               [7]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 162.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.162 \newpage
+               [8]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 167.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.167 \newpage
+               [9]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 172.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.172 \newpage
+               [10]
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 179.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 \newpage
+               [11]
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 211.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 \newpage
+               [12]
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 237.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 \newpage
+               [13])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 138.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 \include{15/15}
+                      [14]
+\openout2 = `GlossaryB/GlossaryB.aux'.
+
+ (./GlossaryB/GlossaryB.tex
+Overfull \hbox (8.05292pt too wide) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/10.95 The fol-low-ing sec-ond or-der dif-fer-en-tial equa-tion, 
+$\OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.
+95 )[] + \OML/cmm/m/it/10.95 Q\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr
+/m/n/10.95 )[] +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 38.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \begin{align*}
+                    [1
+
+
+
+])
+File: IODE-logo.png Graphic file (type png)
+<use IODE-logo.png>
+Package pdftex.def Info: IODE-logo.png  used on input line 139.
+(pdftex.def)             Requested size: 35.56593pt x 16.57545pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 20.65549pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.65549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.65549pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \include{GlossaryB/GlossaryB}
+                                    [2] (./IODE.aux (./CoverPage/CoverPage.aux)
+(./01/01.aux) (./02/02.aux) (./03/03.aux) (./04/04.aux) (./05/05.aux)
+(./06/06.aux) (./07/07.aux) (./08/08.aux) (./GlossaryA/GlossaryA.aux)
+(./09/09.aux) (./10/10.aux) (./11/11.aux) (./12/12.aux) (./13/13.aux)
+(./14/14.aux) (./15/15.aux) (./GlossaryB/GlossaryB.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `IODE.out' has not changed.
+(rerunfilecheck)             Checksum: 3A9AC9C7B676CD53C06DE15D4D1F43BB;11023.
+ ) 
+Here is how much of TeX's memory you used:
+ 23209 strings out of 476024
+ 429816 string characters out of 5794016
+ 1877382 words of memory out of 5000000
+ 42366 multiletter control sequences out of 15000+600000
+ 525729 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,16n,89p,1461b,813s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/tex
+live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:
+/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2
+022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/
+texlive/2022/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb><c:/texlive/2022/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on IODE.pdf (150 pages, 5699502 bytes).
+PDF statistics:
+ 1885 PDF objects out of 2073 (max. 8388607)
+ 1522 compressed objects within 16 object streams
+ 700 named destinations out of 1000 (max. 500000)
+ 882 words of extra memory for PDF output out of 10000 (max. 10000000)
+

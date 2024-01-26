@@ -25,7 +25,7 @@ create_footer()
 > 
 > The reading materials are not mandatory but it is encouraged.
 
-<br>The "Reading" column in the table below contains page numbers on which it refers to a label in the Books & Online Resources List. For example "Pgs. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
+<br>The "Reading" column in the table below contains page numbers (Pg.) or chapters (ch.) on which it refers to a label in the Books & Online Resources List. For example "Pg. 1-5 [H]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Ordinary Differential Equations: A Primer on Dynamics and Systems".
 
 <br>
 
@@ -35,11 +35,11 @@ create_footer()
 |:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | Tu 1/16 | _Cancelled_ | - | - | - |
 |  | Th 1/18 | Introduction and Orientation to ODEs<br>_(Temporarily Asynchronous)_ | Algebra and Calculus Review | - | Syllabus |
-| **2** | Tu 1/23 | Modeling Physical Systems,<br>Classification of Equations, & <br>Principles of Solutions | Classifying ODEs and Verifying Solutions | - | TBA |
-|  | Th 1/25 | 1st-Order ODEs,<br>Existence and Uniqueness, &<br>Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | TBA | Assigned: Homework 1 | TBA |
-| **3** | Tu 1/30 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | - | TBA |
-|  | Th 2/1 | Laplace Transforms for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
-| **4** | Tu 2/6 | Euler's Method for solving ODEs | TBA | - | TBA |
+| **2** | Tu 1/23 | Modeling Physical Systems,<br>Classification of Equations, & <br>Principles of Solutions | Classifying ODEs and Verifying Solutions | - | Ch. 1.1 [T], Ch. 1.1 [H], & Ch. 1.2.3 [H] |
+|  | Th 1/25 | 1st-Order ODEs,<br>Existence and Uniqueness, &<br>Analyzing Equilibriums of Linear and Non-Linear 1st-Order ODEs | Qualitative and Graphical Approaches | Assigned: Homework 1 | TBA |
+| **3** | Tu 1/30 | Nullclines and Isoclines &<br> Euler's Method for solving 1st-Order ODEs | TBA | - | TBA |
+|  | Th 2/1 | Separation of Variables & <br>Integrating Factors for Solving 1st-Order ODEs | TBA | Assigned: Homework 2 | TBA |
+| **4** | Tu 2/6 | Laplace Transforms for Solving 1st-Order ODEs | TBA | - | TBA |
 |  | Th 2/8 | Bifurcations in One Dimension | TBA | Assigned: Homework 3 | TBA |
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Guide |
 |  | Th 2/15 | **Exam 1** | - | - | - |
