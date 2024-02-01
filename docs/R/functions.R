@@ -6,6 +6,7 @@ library(htmltools)
 library(distilltools)
 library(stringr)
 library(dplyr)
+library(latex2exp)
 
 create_footer <- function() {
   
