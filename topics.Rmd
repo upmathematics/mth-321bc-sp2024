@@ -42,27 +42,27 @@ create_footer()
 | **4** | Tu 2/6 | Laplace Transforms for Solving 1st-Order ODEs | Laplace Transforms for 1st-Order ODEs | - | Ch. 8.1 [T], Ch. 8.2 [T], & Ch. 5.1 [H] |
 |  | Th 2/8 | Bifurcations in One Dimension | Bifurcations &<br>Interpreting Population and Mixing Models | - | TBA |
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
-|  | Th 2/15 | **Exam 1** | - | Assigned: Homework 3 | - |
+|  | Th 2/15 | **Exam 1** | - | - | - |
 | **6** | Tu 2/20 | Systems of 1st-Order ODEs,  <br>Existences and Uniqueness, & <br>Modeling Physical Processes | TBA | - | TBA |
-|  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | Assigned: Homework 4 | TBA |
+|  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | Assigned: Homework 3 | TBA |
 | **7** | Tu 2/27 | Linear Transformations & <br>Eigenthoery | TBA | - | TBA |
-|  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | Assigned: Homework 5 | TBA |
+|  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | TBA |
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
 | **9** | Tu 3/12 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | - | TBA |
 |  | Th 3/14 | Bifurcations in Two Dimensions | TBA | - | TBA |
 | **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
-|  | Th 3/21 | **Exam 2** | - | Assigned: Homework 6 | - |
+|  | Th 3/21 | **Exam 2** | - | - | - |
 | **11** | Tu 3/26 | Higher Order ODEs, <br>Characteristic Equations, & <br>Modeling Physical Processes | TBA | - | TBA |
-|  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | Assigned: Homework 7 | TBA |
+|  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | Assigned: Homework 5 | TBA |
 | **12** | Tu 4/2 | Undetermined Coefficients for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
-|  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 8 | TBA |
+|  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 6 | TBA |
 | **13** | Tu 4/9 | Laplace Transforms for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
 |  | Th 4/11 | Power and Fourier Series Methods for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
 | **14** | Tu 4/16 | _Review_ | Exam 3 Examples | - | Exam 3 Topics |
-|  | Th 4/18 | **Exam 3** | - | Assigned: Homework 9 | - |
+|  | Th 4/18 | **Exam 3** | - | - | - |
 | **15** | Tu 4/23 | Analyzing the Lorenz System | TBA | - | TBA |
-|  | Th 4/25 | Analyzing the Double Pendulum | TBA | Assigned: Homework 10 (Optional) | TBA |
+|  | Th 4/25 | Analyzing the Double Pendulum | TBA | - | TBA |
 | **16** | Tu 4/30 | Final Exam Section B | - | - | - |
 |  | Th 5/2 | Final Exam Section C | - | - | - |
 
