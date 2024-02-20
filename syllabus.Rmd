@@ -349,7 +349,9 @@ Here are the rules of make-up exams:
 
   * A missed exam day means that you will automatically receive a grade of “I” for that particular exam.
   * Make-up exams by appointment must be scheduled 24 hours in advance.
-  * Make-up exams must be done within two weeks of the original exam day.
+  * Make-up exams must be done within one week of the original exam day.
+  
+*Amendment 1:* Rules are changed from "Make-up exams must be done within *two weeks* of the original exam day" to "Make-up exams must be done within *one week* of the original exam day."
 
 > Here is how you can sign-up for the exam (oral part) make-ups:
 >
