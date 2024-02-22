@@ -44,9 +44,9 @@ create_footer()
 | **5** | Tu 2/13 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
 |  | Th 2/15 | **Exam 1** | - | - | - |
 | **6** | Tu 2/20 | Systems of 1st-Order ODEs & <br>Modeling Physical Processes | TBA | - | TBA |
-|  | Th 2/22 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems | TBA | Assigned: Homework 3 | TBA |
-| **7** | Tu 2/27 | Linear Transformations & <br>Eigenthoery | TBA | - | TBA |
-|  | Th 2/29 | Stability Analysis of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | TBA |
+|  | Th 2/22 | _Cancelled_ | TBA | Assigned: Homework 3 | TBA |
+| **7** | Tu 2/27 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems, & <br> Linear Transformations | TBA | - | TBA |
+|  | Th 2/29 | Eigentheory & <br> Stability Analysis of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | TBA |
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
 | **9** | Tu 3/12 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | TBA | - | TBA |
