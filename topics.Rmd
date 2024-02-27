@@ -45,7 +45,7 @@ create_footer()
 |  | Th 2/15 | **Exam 1** | - | - | - |
 | **6** | Tu 2/20 | Systems of 1st-Order ODEs & <br>Modeling Physical Processes | Interpreting 1st-Order System of ODEs | - | TBA |
 |  | Th 2/22 | _Cancelled_ | - | Assigned: Homework 3 | - |
-| **7** | Tu 2/27 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems  | Equilibriums of 1st-Order ODEs | - | TBA |
+| **7** | Tu 2/27 | Analyzing Equilibriums to 1st-Order Linear and Non-Linear Systems  | Equilibriums of 1st-Order System of ODEs | - | TBA |
 |  | Th 2/29 | Linear Transformations, <br> Eigentheory & <br> Stability Analysis of 1st-Order Linear Systems | TBA | Assigned: Homework 4 | TBA |
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
