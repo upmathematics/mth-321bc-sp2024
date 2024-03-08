@@ -253,7 +253,13 @@ There will be worksheets for each non-exam week. The purpose of the worksheets i
 
 ### Homeworks
 
-Homework is assigned every week and due every Friday by end-of-day, except for exam weeks. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
+Homework is assigned every week and due every Friday by end-of-day, except for exam weeks. You must do and submit your homework individually. Homework is graded all on correctness and completion.
+
+No submissions are an automatic "I". If you have received an "I" mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise.
+
+*Amendment 4:* Sentence change: "Homework is graded mostly on correctness and completion." to "Homework is graded all on correctness and completion."
+
+*Amendment 5:* Added paragraph: 'No submissions are an automatic "I". If you have received an "I" mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise.'
 
 ### Homework Revisions
 
