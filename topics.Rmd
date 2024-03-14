@@ -50,7 +50,7 @@ create_footer()
 | **8** | Tu 3/5 | _Spring Vacation_ | - | - | - |
 |  | Th 3/7 | _Spring Vacation_ | - | - | - |
 | **9** | Tu 3/12 | Eigenvalues and Eigenvectors for solving 1st-Order Linear Systems | Analytical Methods for 1st-Order System of ODEs | - | TBA |
-|  | Th 3/14 | Complex Solutions of 1st-Order Linear Systems | Complex Exponentials and Applications | - | TBA |
+|  | Th 3/14 | Complex Solutions of 1st-Order Linear Systems | Repeated Eigenvalues and Complex Exponentials | - | TBA |
 | **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
 |  | Th 3/21 | **Exam 2** | - | - | - |
 | **11** | Tu 3/26 | Higher Order ODEs & <br>Modeling Physical Processes | TBA | - | TBA |
