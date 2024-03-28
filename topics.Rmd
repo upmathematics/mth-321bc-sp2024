@@ -53,8 +53,8 @@ create_footer()
 |  | Th 3/14 | Complex Solutions of 1st-Order Linear Systems | Repeated Eigenvalues and Complex Exponentials | - | TBA |
 | **10** | Tu 3/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
 |  | Th 3/21 | **Exam 2** | - | - | - |
-| **11** | Tu 3/26 | Higher Order ODEs & <br>Modeling Physical Processes | TBA | - | TBA |
-|  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | TBA | Assigned: Homework 5 | TBA |
+| **11** | Tu 3/26 | Higher Order ODEs & <br>Modeling Physical Processes | Particular Solutions | - | TBA |
+|  | Th 3/28 | Analyzing Linear and Non-Linear 2nd-Order ODEs | Substitution and Non-Dimensionalization | Assigned: Homework 5 | TBA |
 | **12** | Tu 4/2 | Undetermined Coefficients for Solving Linear 2nd-Order ODEs | TBA | - | TBA |
 |  | Th 4/4 | Variation of Parameters for Solving Linear 2nd-Order ODEs | TBA | Assigned: Homework 6 | TBA |
 | **13** | Tu 4/9 | Laplace Transforms for Solving Linear 2nd_Order ODEs | TBA | - | TBA |
