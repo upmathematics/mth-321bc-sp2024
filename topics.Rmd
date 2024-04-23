@@ -61,7 +61,7 @@ create_footer()
 |  | Th 4/11 | Laplace Transforms for Solving Linear 2nd-Order ODEs | Transforming Derivatives à la Laplace | - | TBA |
 | **14** | Tu 4/16 | _Review_ | Exam 3 Examples | - | Exam 3 Topics |
 |  | Th 4/18 | **Exam 3** | - | - | - |
-| **15** | Tu 4/23 |  Bifurcations in Two Dimensions  | TBA | - | TBA |
+| **15** | Tu 4/23 |  Bifurcations in Two Dimensions  | Bifurcation Analysis | - | TBA |
 |  | Th 4/25 | Analyzing the Double Pendulum and the Lorenz System | TBA | - | TBA |
 | **16** | Tu 4/30 | Final Exam Section B | - | - | - |
 |  | Th 5/2 | Final Exam Section C | - | - | - |
