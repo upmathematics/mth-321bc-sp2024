@@ -62,7 +62,7 @@ create_footer()
 | **14** | Tu 4/16 | _Review_ | Exam 3 Examples | - | Exam 3 Topics |
 |  | Th 4/18 | **Exam 3** | - | - | - |
 | **15** | Tu 4/23 |  Bifurcations in Two Dimensions  | Bifurcation Analysis | - | TBA |
-|  | Th 4/25 | Analyzing the Double Pendulum and the Lorenz System | TBA | - | TBA |
+|  | Th 4/25 | Analyzing the Lorenz System | Dynamics and Chaos Theory | - | TBA |
 | **16** | Tu 4/30 | Final Exam Section B | - | - | - |
 |  | Th 5/2 | Final Exam Section C | - | - | - |
 
